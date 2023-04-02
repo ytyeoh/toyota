@@ -3,3 +3,9 @@ resources/
 node_modules/
 package-lock.json
 .hugo_build.lock
+
+themes/*/.DS_Store
+themes/*/public/
+themes/*/npm-debug.log
+themes/*//node_modules/*
+themes/*/exampleSite/.hugo_build.lock
