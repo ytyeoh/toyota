@@ -2,9 +2,9 @@ baseurl = "/" # Configure URL. if using gh-pages https://github.com/<username>/h
 title = "Universal"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
-languageCode = "en-us"
+languageCode = "zh"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 [languages.en]
     languagedirection = 'rtl'
