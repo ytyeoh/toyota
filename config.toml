@@ -333,6 +333,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.allpages"
     post       = 4
+[[languages.zh.menu.main]]
+    name = "联系"
+    identifier = "menu.features"
+    url        = "/contact"
+    weight     = 3
 
 # [[menu.main]]
 #     name       = "Pages"
