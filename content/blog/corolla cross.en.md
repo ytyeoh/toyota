@@ -7,4 +7,4 @@ banner = "img/banners/banner-4.jpg"
 
 +++
 
-SUV from RM 130,400.00
+Crossover from RM 130,400.00
