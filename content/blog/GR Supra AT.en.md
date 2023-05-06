@@ -7,4 +7,4 @@ banner = "img/banners/banner-4.jpg"
 
 +++
 
-Sedan from RM 655,000.00
+Coupe from RM 655,000.00
