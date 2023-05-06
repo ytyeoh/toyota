@@ -1,5 +1,5 @@
 +++
-title = "SUV"
+title = "FORTUNER"
 
 tags = ["SUV", "programming", "theme", "hugo"]
 categories = ["SUV"]
