@@ -42,7 +42,26 @@
                         {{ end }}
 
                         <div id="post-content">
+                        	
+                        		{{ $banner := .Params.location }}
+	                        	{{ range $num := (seq .Params.images) }}
+	                        		{{ $i := string . }}
+		                        	
+		                        	{{ $ii := printf "%v%v%v" $banner $i ".jpg"}}
+		                        	{{ $image := resources.Get $ii }}
+			                        	{{ with $image }}
+										  <img src="{{ .RelPermalink }}" width="100%">
+										{{ end }}
+									
+								{{ end }}
+							
+                        	
+							
+							  
+							
+                        	
                           {{ .Content }}
+                        	
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
