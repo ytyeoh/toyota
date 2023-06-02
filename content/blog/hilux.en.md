@@ -41,6 +41,11 @@ Horsepower : 150
 Powerful 2.8L Engine making 204 PS and 500Nm
 GR Sport Exterior & Interior Styling
 GR Sport Tuned Suspension
+
+On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+Prices shown are subject to change and are governed by the terms and conditions of this website.
+
+Image is for illustration purposes only.
  
 ## THE HILUX
 Monstrous performance combined with an undeniable toughness. Experience the sheer power of the Hilux.
