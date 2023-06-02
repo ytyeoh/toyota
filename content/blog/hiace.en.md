@@ -15,6 +15,11 @@ MORE POSSIBILITIES,
 ENDLESS OPPORTUNITIES.
 
 **Van from RM 113,000.00**
+
+**Hiace Panel Van 2.5 Turbo Diesel  From RM113,000.00**
+
+On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+Prices shown are subject to change and are governed by the terms and conditions of this website.
  
 ## THE HIACE
 Be in the space of luxury with the Hiace - designed to fuel your drive for excellence in both form and function.
