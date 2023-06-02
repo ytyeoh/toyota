@@ -25,6 +25,11 @@ Toyota Safety Sense With Advanced Driver Assistance Technology
 ## Corolla 1.8E  From RM134,888.00
 TNGA With Double Wishbone Rear Suspension
 3D Panoramic View Monitor (PVM) (Optional)
+
+On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+Prices shown are subject to change and are governed by the terms and conditions of this website.
+
+Image is for illustration purposes only.
  
 ## THE COROLLA
 Discover the true meaning of class with the Corolla. A sleek exterior with a performance that will rise to every occasion.
