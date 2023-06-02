@@ -14,6 +14,17 @@ images = 5
 A DRIVE TO BE FREE
 
 **Sedan from RM 134,888.00**
+
+**All Corolla Models:
+
+## Corolla 1.8G  From RM145,888.00
+TNGA With Double Wishbone Rear Suspension
+Toyota Safety Sense With Advanced Driver Assistance Technology
+3D Panoramic View Monitor (PVM)
+
+## Corolla 1.8E  From RM134,888.00
+TNGA With Double Wishbone Rear Suspension
+3D Panoramic View Monitor (PVM) (Optional)
  
 ## THE COROLLA
 Discover the true meaning of class with the Corolla. A sleek exterior with a performance that will rise to every occasion.
