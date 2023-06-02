@@ -14,6 +14,10 @@ images = 5
 DEFY EXPECTATIONS
 
 **Sedan from RM 86,600.00**
+
+**All Vios Models:
+Vios 1.5G AT  From RM95,500.00
+Vios 1.5E AT  From RM89,600.00
  
 ## ALL-NEW VIOS
 Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your journey starts and ends. Defy the norm and set a new course with the Vios.
