@@ -16,8 +16,16 @@ DEFY EXPECTATIONS
 **Sedan from RM 86,600.00**
 
 **All Vios Models:
-Vios 1.5G AT  From RM95,500.00
-Vios 1.5E AT  From RM89,600.00
+
+## Vios 1.5G AT  From RM95,500.00
+Toyota Safety Sense
+3D Panoramic View Monitor (PVM)
+Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA)
+
+## Vios 1.5E AT  From RM89,600.00
+Toyota Safety Sense
+9” Display Audio with Wireless Apple CarPlay & Android Auto™
+Rear Air-Cond Vent
  
 ## ALL-NEW VIOS
 Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your journey starts and ends. Defy the norm and set a new course with the Vios.
