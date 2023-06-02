@@ -14,7 +14,12 @@ images = 5
 EXQUISITE DOMINANCE UNLEASHED
 
 **Sedan from RM 219,800.00**
- 
+
+**Camry 2.5V AT  From RM219,800.00**
+On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+
+Prices shown are subject to change and are governed by the terms and conditions of this website.
+
 ## THE CAMRY
 Spacious and smarter, with a more sporty aesthetic. Our iconic sedan continues to lead the pack with sharp styling and a host of sophisticated technologies for excellent performance on every drive.
 
