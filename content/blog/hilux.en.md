@@ -14,6 +14,33 @@ images = 5
 EXTREME SUPERIORITY
 
 **Pickup from RM 103,880.00**
+
+**All Hilux Models:
+
+## Hilux Double Cab 2.8 Rogue AT 4WD  From RM158,880.00
+Horsepower : 204
+Toyota Safety Sense
+Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
+
+## Hilux Double Cab 2.4V AT 4WD  From RM145,880.00
+Horsepower : 150
+Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
+
+## Hilux Double Cab 2.4E AT 4WD  From RM119,880.00
+Horsepower : 150
+Active Traction Control (A-TRC)
+
+## Hilux Double Cab 2.4E MT 4WD  From RM117,880.00
+Horsepower : 150
+Active Traction Control (A-TRC)
+
+## Hilux Single Cab 2.4 MT 4WD  From RM103,880.00
+Horsepower : 150
+
+## Hilux GR Sport  From RM169,080.00
+Powerful 2.8L Engine making 204 PS and 500Nm
+GR Sport Exterior & Interior Styling
+GR Sport Tuned Suspension
  
 ## THE HILUX
 Monstrous performance combined with an undeniable toughness. Experience the sheer power of the Hilux.
