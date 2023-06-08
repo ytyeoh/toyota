@@ -199,8 +199,9 @@ Track and monitor your car's location in real time via Toyota 24SEVEN mobile app
 *Terms and conditions apply.
 
 ## COLOURS
-Spicy Scarlet SE.
-Silver Metallic
-Nebula Blue Metallic
-Attitude Black Mica
-Platinum White Pearl Mica
+- Spicy Scarlet SE.
+- Silver Metallic
+
+- Nebula Blue Metallic
+- Attitude Black Mica
+- Platinum White Pearl Mica
