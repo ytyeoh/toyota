@@ -18,13 +18,13 @@ A DRIVE TO BE FREE
 ## All Corolla Models:
 
 **Corolla 1.8G  From RM145,888.00**
-TNGA With Double Wishbone Rear Suspension.
-Toyota Safety Sense With Advanced Driver Assistance Technology.
-3D Panoramic View Monitor (PVM).
+- TNGA With Double Wishbone Rear Suspension.
+- Toyota Safety Sense With Advanced Driver Assistance Technology.
+- 3D Panoramic View Monitor (PVM).
 
 **Corolla 1.8E  From RM134,888.00**
-TNGA With Double Wishbone Rear Suspension.
-3D Panoramic View Monitor (PVM) (Optional).
+- TNGA With Double Wishbone Rear Suspension.
+- 3D Panoramic View Monitor (PVM) (Optional).
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
@@ -34,39 +34,39 @@ Image is for illustration purposes only.
 ## THE COROLLA
 Discover the true meaning of class with the Corolla. A sleek exterior with a performance that will rise to every occasion.
 
-TNGA With Double Wishbone Rear Suspension
-Toyota Safety Sense With Advanced Driver Assistance Technology
-3D Panoramic View Monitor (PVM)
+- TNGA With Double Wishbone Rear Suspension
+- Toyota Safety Sense With Advanced Driver Assistance Technology
+- 3D Panoramic View Monitor (PVM)
 
 ### DESIGN & COMFORT
-**Automatic Bi-LED Headlamps with Follow-Me-Home Function**
+#### Automatic Bi-LED Headlamps with Follow-Me-Home Function**
 LED-based that further emphasises the headlamps' wide and dynamic appeal.
 
 #### 17" Alloy Rims
 Machine-polished multi-spoke metallic rims that embody luxury and exclusivity.
 
-### Genuine Leather Seats
+#### Genuine Leather Seats
 Reduces fatigue during long drives with optimal back support and 8-way seat adjustment for driver seat.
 
-### Instrument Panel
+#### Instrument Panel
 Console finished with glossy black and silver ornamentation for a classy feel.
 
 #### 7" Colour Multi-Information Display (MID) with Optitron Meter
 The high-grade multi-information display features excellent visibility and is switchable between analogue and digital meters.
 
-## Automatic Rain-sensing Wipers
+#### Automatic Rain-sensing Wipers
 Equipped with infrared optical light sensors for millilitre-precision speed adjustment.
 
-## Dual-zone Automatic Air Conditioning
+#### Dual-zone Automatic Air Conditioning
 Driver and front passenger are able to set independent temperatures to suit their comfort level.
 
-## Rear Sunshade
+#### Rear Sunshade
 Developed to offer additional shade for rear passengers.
 
-## Rear Blower
+#### Rear Blower
 Conveniently located at center console box for rear passengers. Specialized ventilation system for optimum humidity.
 
-## PERFORMANCE
+### PERFORMANCE
 *1.8L DOHC Dual VVT-i Engine*
 Toyota 2ZR-FE is known for its balanced power and fuel efficiency. Drive assured with Toyota's quality, durability, and reliability.
 
@@ -79,10 +79,10 @@ Enhanced linear steering response during mid- to high-speed cornering gives you 
 *7-speed Continuously Variable Transmission (CVT)*
 Automatic transmission for smooth and seamless response during acceleration.
 
-## 360-T
+### 360-T
 Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
 
-## SAFE-T
+#### SAFE-T
 *Toyota Safety Sense
 Pre-Collision System (PCS)* *
 Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
@@ -136,13 +136,13 @@ Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on st
 
 *Driver remains solely responsible for safe driving at all times.
 
-## GUARAN-T
-5-Year Warranty*
-5 years vehicle warranty from the date of first registration with unlimited mileage.
+### GUARAN-T
+- 5-Year Warranty*
+- 5 years vehicle warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply.
 
-## COLOURS
+### COLOURS
 - Celestite Gray Metallic
 - Platinum White Pearl Mica
 - Silver Metallic
