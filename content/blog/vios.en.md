@@ -111,7 +111,7 @@ The engine delivers both improved fuel efficiency and throttle response. Compact
 #### New 7-Speed CVT with Sequential Shiftmatic
 Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency.
 
-#### 360-T ADVANCED
+### 360-T ADVANCED
 Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
 
 #### SAFE-T
@@ -194,6 +194,7 @@ Track and monitor your car's location in real time via Toyota 24SEVEN mobile app
 
 ### GUARAN-T
 5-Year Warranty*
+
 5 years vehicle warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply
