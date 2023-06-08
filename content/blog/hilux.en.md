@@ -15,32 +15,32 @@ EXTREME SUPERIORITY
 
 **Pickup from RM 103,880.00**
 
-**All Hilux Models:
+## All Hilux Models:
 
-## Hilux Double Cab 2.8 Rogue AT 4WD  From RM158,880.00
-Horsepower : 204
-Toyota Safety Sense
-Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
+**Hilux Double Cab 2.8 Rogue AT 4WD  From RM158,880.00**
+- Horsepower : 204
+- Toyota Safety Sense
+- Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
 
-## Hilux Double Cab 2.4V AT 4WD  From RM145,880.00
-Horsepower : 150
-Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
+**Hilux Double Cab 2.4V AT 4WD  From RM145,880.00**
+- Horsepower : 150
+- Auto Limited-slip Differential (LSD) & Active Traction Control (A-TRC)
 
-## Hilux Double Cab 2.4E AT 4WD  From RM119,880.00
-Horsepower : 150
-Active Traction Control (A-TRC)
+**Hilux Double Cab 2.4E AT 4WD  From RM119,880.00**
+- Horsepower : 150
+- Active Traction Control (A-TRC)
 
-## Hilux Double Cab 2.4E MT 4WD  From RM117,880.00
-Horsepower : 150
-Active Traction Control (A-TRC)
+**Hilux Double Cab 2.4E MT 4WD  From RM117,880.00**
+- Horsepower : 150
+- Active Traction Control (A-TRC)
 
-## Hilux Single Cab 2.4 MT 4WD  From RM103,880.00
-Horsepower : 150
+**Hilux Single Cab 2.4 MT 4WD  From RM103,880.00**
+- Horsepower : 150
 
-## Hilux GR Sport  From RM169,080.00
-Powerful 2.8L Engine making 204 PS and 500Nm
-GR Sport Exterior & Interior Styling
-GR Sport Tuned Suspension
+**Hilux GR Sport  From RM169,080.00**
+- Powerful 2.8L Engine making 204 PS and 500Nm
+- GR Sport Exterior & Interior Styling
+- GR Sport Tuned Suspension
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
@@ -50,47 +50,47 @@ Image is for illustration purposes only.
 ## THE HILUX
 Monstrous performance combined with an undeniable toughness. Experience the sheer power of the Hilux.
 
-Horsepower : 204
-Toyota Safety Sense
-Auto Limited Slip Differential (LSD) & Active Traction Control (A-TRC)
+- Horsepower : 204
+- Toyota Safety Sense
+- Auto Limited Slip Differential (LSD) & Active Traction Control (A-TRC)
 
 ### DESIGN & COMFORT
-**New Front Grille and Bumper Design**
+#### New Front Grille and Bumper Design
 The three-dimensional grille folds into the engine hood and bumper guard, creating a strong powerful look.
 
 #### Bi-LED Headlamps
 Lends the Hilux a little sophistication while maintaining the tough impression that the Hilux is well-known for.
 
-### LED Rear Combination Lamps
+#### LED Rear Combination Lamps
 Have a characteristic design that others will admire.
 
-### Improved Suspension System
+#### Improved Suspension System
 Allows for a comforting ride that prevents fatigue even on long journeys.
 
 #### Optitron Meter Design & MID with Additional Information
 Displays blue illumination to add a premium feel. Comes with an opening animation.
 
-## Dual-zone Automatic Climate Control With Rear Vents
+#### Dual-zone Automatic Climate Control With Rear Vents
 Automatically maintains a blanced environment throughout the cabin, while rear ducts provide additional comfort for rear passengers.
 
-## Deck Light*
+#### Deck Light*
 Provides convenience to find items in the cargo bed at night or in dark places. *Optional accessory.
 
-## LED Fog Lamps
+#### LED Fog Lamps
 Positioned at the lower bumper corners to emphasise the wide and low appearance.
 
-## Stylish 18" Alloy Rims
+#### Stylish 18" Alloy Rims
 Stylish 18" Alloy Rims with Highway Terrain Tyres provide excellent road holding and highway cruising comfort.
 
-## PERFORMANCE
+### PERFORMANCE
 *Extreme Power with Enhanced Efficiency*
 The heavy-duty turbocharger results in superior performance while the increased common-rail fuel injection pressure contributes to increased fuel efficiency. A 6-speed transmission delivers this power with a smooth driving feel.
 
-1GD-FTV
-2.8 L Intercooler
-Electronic Common-rail Fuel Injection System
-Max Power: 204 Horsepower
-Max Torque: 500 Nm of torque
+- 1GD-FTV
+- 2.8 L Intercooler
+- Electronic Common-rail Fuel Injection System
+- Max Power: 204 Horsepower
+- Max Torque: 500 Nm of torque
 
 *Variable Flow Control (VFC) Power Steering*
 Provides more natural handling that varies the assistance level to match high and low speeds.
@@ -110,10 +110,10 @@ ECO mode enhances the Hilux's fuel economy, while Power mode maximises performan
 *Downhill-assist Control (DAC)*
 Controls the brakes automatically and prevents the Hilux from slipping when descending steep slopes.
 
-## 360-T ADVANCED
+### 360-T ADVANCED
 Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
 
-## SAFE-T
+#### SAFE-T
 *Toyota Safety Sense
 Pre-Collision System (PCS)* *
 Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
@@ -166,7 +166,7 @@ VSC prevents the Hilux from spinning when sudden manoeuvres are needed, while TR
 *Anti-lock Braking System (ABS) with Electronic Brake Force Distribution (EBD)*
 ABS prevents wheel lock-up during braking while EBD optimally distributes braking power to each wheel according to the current load and weight.
 
-## CONNECTIVI-T
+### CONNECTIVI-T
 9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*
 Access navigation and music options easily using your phone.
 *Android Auto™ will be available when the service is officially launched in Malaysia.
@@ -174,17 +174,18 @@ Access navigation and music options easily using your phone.
 Vehicle Telematics System (VTS)
 An integrated system that monitors and shares your Hilux's real-time location through a mobile app.
 
-## GUARAN-T
-5-Year Warranty*
-5 years warranty from the date of first registration or 150,000 km travelled, whichever occurs first.
+### GUARAN-T
+- 5-Year Warranty*
+- 5 years warranty from the date of first registration or 150,000 km travelled, whichever occurs first.
+
 *Terms and conditions apply.
 
-## COLOURS
-Bronze Mica Metallic
-Phantom Brown Metallic
-Crimson Spark Red Metallic
-Attitude Black Mica
-Super White II
-Medium Silver Metallic
-Silver Metallic
-Solid White
+### COLOURS
+- Bronze Mica Metallic
+- Phantom Brown Metallic
+- Crimson Spark Red Metallic
+- Attitude Black Mica
+- Super White II
+- Medium Silver Metallic
+- Silver Metallic
+- Solid White
