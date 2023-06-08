@@ -15,17 +15,17 @@ DEFY EXPECTATIONS
 
 **Sedan from RM 86,600.00**
 
-**All Vios Models:
+## All Vios Models:
 
-## Vios 1.5G AT  From RM95,500.00
-Toyota Safety Sense
-3D Panoramic View Monitor (PVM)
-Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA)
+**Vios 1.5G AT  From RM95,500.00**
+Toyota Safety Sense.
+3D Panoramic View Monitor (PVM).
+Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA).
 
-## Vios 1.5E AT  From RM89,600.00
-Toyota Safety Sense
-9” Display Audio with Wireless Apple CarPlay & Android Auto™
-Rear Air-Cond Vent
+**Vios 1.5E AT  From RM89,600.00**
+Toyota Safety Sense.
+9” Display Audio with Wireless Apple CarPlay & Android Auto™.
+Rear Air-Cond Vent.
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
