@@ -15,6 +15,8 @@ EXQUISITE DOMINANCE UNLEASHED
 
 **Sedan from RM 219,800.00**
 
+## Camry Models:
+
 **Camry 2.5V AT  From RM219,800.00**
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 
@@ -23,21 +25,21 @@ Prices shown are subject to change and are governed by the terms and conditions 
 ## THE CAMRY
 Spacious and smarter, with a more sporty aesthetic. Our iconic sedan continues to lead the pack with sharp styling and a host of sophisticated technologies for excellent performance on every drive.
 
-Engine     : 2.5 L, 4-cyl
-Horsepower : 209
-Torque     : 253 Nm
+- Engine     : 2.5 L, 4-cyl
+- Horsepower : 209
+- Torque     : 253 Nm
 
 ### DESIGN & COMFORT
-**Bi-beam LED Headlamps With Follow-me-home Function & Daytime Running Lights (DRL)**
+#### Bi-beam LED Headlamps With Follow-me-home Function & Daytime Running Lights (DRL)**
 Turn heads with a stylish pair of powerful Bi-LED projector headlamps equipped with the Follow-me-home Function and Daytime Running Lights (DRL) that automatically light up your path for enhanced visibility and safety.
 
 #### Luxurious Design
 Our attention to detail stands out in the interior through intricate ornamentation, layering organic patterns, and straight lines, expressing an elegant flow.
 
-### Power Reclining Rear Seats
+#### Power Reclining Rear Seats
 Offers a luxuriously comfortable recline angle of 8°, complete with control panel armrest for seat adjustment, air conditioning, power sunshades, and audio system.
 
-### 10" Colour Head-up Display (HUD)
+#### 10" Colour Head-up Display (HUD)
 Projects driving data in the driver's line of sight for easier access to important information such as shift position and Toyota Safety Sense (TSS) warning alerts.
 
 #### 9" Capacitive Touch Screen Display With 9-speaker JBL Audio System
@@ -45,20 +47,20 @@ Can be operated with simple finger movements, provides real sound quality courte
 
 ###### *Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model.
 
-## Power Adjustable Steering Wheel With Memory Function
+#### Power Adjustable Steering Wheel With Memory Function
 Adjusts the steering column to one of two preferred settings when the engine is turned on, and retracts the steering column when the engine is turned off to allow the driver an easy exit.
 
-## Tri-zone Automatic Climate Control With Rear Vent
+#### Tri-zone Automatic Climate Control With Rear Vent
 Allows the driver, front passenger, and rear passenger to set their temperatures independently according to their own preferences.
 
-## PERFORMANCE
+### PERFORMANCE
 *Toyota New Global Architecture (TNGA) Platform With Double Wishbone Rear Suspension*
 Provides more stable, responsive, and agile handling to enhance the quality of your ride.
 
 *2.5 L Dynamic Force Engine With VVT-iE*
 The New Camry is powered by a new 2.5 L engine with higher engine output and combustion effciency to exude absolute power on the road.
-Max. Output: 209 PS 6600 rpm
-Max. Torque: 253 Nm 5000 rpm
+- Max. Output: 209 PS 6600 rpm
+- Max. Torque: 253 Nm 5000 rpm
 
 *Direct Shift 8-speed Automatic Transmission*
 Offers impressive starting acceleration as well as fuel efficiency when cruising at high speeds.
@@ -69,10 +71,10 @@ Gives the driver control similar to that of a manual car with excellent response
 *Drive Mode Select*
 Sport mode offers a more responsive and exhilarating ride, ECO mode prioritises fuel efficiency, and Normal mode provides a perfect balance of the two.
 
-## 360-T ADVANCED
+### 360-T ADVANCED
 Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
 
-## SAFE-T
+### SAFE-T
 *Toyota Safety Sense
 Pre-Collision System (PCS)* *
 Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes when there is a risk of collision. Now applies to pedestrians and bicyclists.
@@ -116,17 +118,17 @@ Driver, front passenger, side, curtain and driver’s knee airbags provide compl
 *Front Digital Video Recorder (DVR)*
 Records your journey for your protection, should evidence be necessary.
 
-## CONNECTIVI-T
+### CONNECTIVI-T
 Vehicle Telematics System (VTS)
 The integrated system monitors and shares your vehicle's real-time location through a mobile app.
 
-## GUARAN-T
-5-Year Warranty*
-5 years vehicle warranty from the date of first registration with unlimited mileage.
+### GUARAN-T
+- 5-Year Warranty*
+- 5 years vehicle warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply.
 
-## COLOURS
+### COLOURS
 - Platinum White Pearl Mica
 - Silver Metallic
 - Graphite Metallic
