@@ -10,52 +10,54 @@ images = 5
 
 +++
 ## HIACE
-
-MORE POSSIBILITIES,
-ENDLESS OPPORTUNITIES.
+- MORE POSSIBILITIES,
+- ENDLESS OPPORTUNITIES.
 
 **Van from RM 113,000.00**
+
+## Hiace Models:
 
 **Hiace Panel Van 2.5 Turbo Diesel  From RM113,000.00**
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+
 Prices shown are subject to change and are governed by the terms and conditions of this website.
  
 ## THE HIACE
 Be in the space of luxury with the Hiace - designed to fuel your drive for excellence in both form and function.
 
-Engine                     : 2.5L D-4D Common Rail Turbo Diesel
-Panel Spacious Cargo
-Minimum Turning Radius     : 5.0 m
+- Engine                     : 2.5L D-4D Common Rail Turbo Diesel
+- Panel Spacious Cargo
+- Minimum Turning Radius     : 5.0 m
 
 ### DESIGN & COMFORT
-**Radiator Grille & Front Bumper**
+#### Radiator Grille & Front Bumper
 The radiator grille and front bumper, inspired by contemporary design, exude a refreshed look.
 
 #### Rear Combination Lamps
 Practicality is a theme carried throughout the Hiace, even with its rear combination lamps.
 
-### 3-dial Control Air Conditioning
+#### 3-dial Control Air Conditioning
 Three-dial control for cabin cooling and greater comfort.
 
-### 3-ring Meter
+#### 3-ring Meter
 The 3-ring analogue meter with external temperature display for easy viewing.
 
 #### Front Power Windows
 Manually winding the windows up and down is a thing of the past, as you can enjoy the hassle-free one-touch power window.
 
-## Panel Spacious Cargo
+#### Panel Spacious Cargo
 The flexibility of the cargo compartment allows versatility of carry items for your every logistical need.
 
-## Anti-corrosion
+#### Anti-corrosion
 Corrosion-resistant materials are used in key areas throughout the Hiace to provide long-lasting protection against rust.
 
-## Vehicle Telematics System (VTS)*
+#### Vehicle Telematics System (VTS)*
 An integrated system that monitors your vehicles real-time location through an app.
 
 *VTS is optional.
 
-## PERFORMANCE
+### PERFORMANCE
 *2.5L D-4D Common Rail Turbo Diesel Engine*
 The 2.5 litre 16-valve DOHC common rail turbo diesel offers a practical balance of power and fuel economy. The engine also provides high levels of torque and reliable performance.
 
@@ -65,7 +67,7 @@ Enjoy a comfortable ride even at full load. The combination of front double wish
 *Turning Radius*
 With a turning radius of just 5.0m, you can easily manoeuvre the Hiace in tight spaces.
 
-## SAFETY
+### SAFETY
 *Anti-lock Braking System (ABS)*
 ABS prevents wheels from braking lock-ups during an emergency.
 
@@ -86,5 +88,5 @@ HD cameras that automatically document your journey should an incident occur and
 
 *Front and Rear DVR is optional.
 
-## COLOURS
-Solid White
+### COLOURS
+- Solid White
