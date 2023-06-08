@@ -127,8 +127,8 @@ The integrated system monitors and shares your vehicle's real-time location thro
 *Terms and conditions apply.
 
 ## COLOURS
-Platinum White Pearl Mica
-Silver Metallic
-Graphite Metallic
-Burning Black Crystal Shine Glass Flake
-Red Mica
+- Platinum White Pearl Mica
+- Silver Metallic
+- Graphite Metallic
+- Burning Black Crystal Shine Glass Flake
+- Red Mica
