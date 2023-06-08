@@ -15,17 +15,17 @@ DARE TO LIVE
 
 **Hatchback from RM 83,300.00**
 
-**All Yaris Models:
+## All Yaris Models:
 
-## Yaris 1.5G AT  From RM87,600.00
-Toyota Safety Sense
-3D Panoramic View Monitor (PVM), Blind Spot Monitor (BSM) with Rear Cross Traffic Alert (RCTA)
-Auto Air-conditioning
+**Yaris 1.5G AT  From RM87,600.00**
+- Toyota Safety Sense
+- 3D Panoramic View Monitor (PVM), Blind Spot Monitor (BSM) with Rear Cross Traffic Alert (RCTA)
+- Auto Air-conditioning
 
-## Yaris 1.5E AT  From RM83,300.00
-Toyota Safety Sense
-3D Panoramic View Monitor (PVM)
-Blind Spot Monitor (BSM) with Rear Cross Traffic Alert (RCTA)
+**Yaris 1.5E AT  From RM83,300.00**
+- Toyota Safety Sense
+- 3D Panoramic View Monitor (PVM)
+- Blind Spot Monitor (BSM) with Rear Cross Traffic Alert (RCTA)
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
@@ -36,16 +36,16 @@ Image is for illustration purposes only.
 Stylish exterior meets perfectly designed interior. The Yaris is the perfect combination for daily movement and fun.
 
 ### DESIGN & COMFORT
-**Front LED Headlamps, Daytime Running Lights (DRL) & Fog Lamps**
+#### Front LED Headlamps, Daytime Running Lights (DRL) & Fog Lamps
 LED headlamps are accentuated by the integrated daytime running lights (DRL), which help brighten up your drive. The bumper is enhanced by the slit-shaped fog lamp design that seems to pop out.
 
 #### Stylish 16" Alloy Rims
 The detailed rim design gives the vehicle a dynamic touch.
 
-### LED Headlamps with Follow-me-home Function
+#### LED Headlamps with Follow-me-home Function
 Light the way! The headlamps' Follow-me-home function keeps the headlamps turned on for a short while so you can get to anywhere you want safely.
 
-### Electrochromic Rear View Mirror
+#### Electrochromic Rear View Mirror
 Glaring headlights catching up behind you? The electrochromic rear view mirror helps dim and absorb excessive light to improve night time driving.
 
 #### Optitron Meter with Multi-Information Display (MID)
@@ -53,34 +53,34 @@ The 4.2" full-colour display shows important vehicle information clearly and wel
 
 Image is for illustration purposes only.
 
-## Auto Air-conditioning
+#### Auto Air-conditioning
 Cool off from the blazing heat auto air-conditioning system that controls the temperature and volume of airflow for your comfort.
 
-## 60:40 Folding Seats
+#### 60:40 Folding Seats
 Get more versatility in space for extra cargo or longer items while still giving ample room for backseat passengers.
 Image is for illustration purposes only.
 
-## Cup Holder
+#### Cup Holder
 Place your beverages in conveniently located cup holders within your reach.
 
-## Glovebox
+#### Glovebox
 Keep all your personal belongings, everyday essentials and more, all in one safe spot.
 
 ### PERFORMANCE
 
-## Dual VVT-i Engine
+#### Dual VVT-i Engine
 The 2NR-FE engine offers smooth acceleration, fuel efficiency, as well as effective delivery of power and torque.
 
-## Continuously Variable Transmission (CVT) with 7-speed Sport Sequential Shiftmatic
+#### Continuously Variable Transmission (CVT) with 7-speed Sport Sequential Shiftmatic
 The gears shift smoothly to increase your driving pleasure.
 
-## Drive Mode Switch
+#### Drive Mode Switch
 Switch it up any way you like! Choose between Sport and ECO mode based on your driving preference.
 
-## 360-T
+### 360-T
 Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
 
-## SAFE-T
+#### SAFE-T
 *Toyota Safety Sense
 Pre-Collision System (PCS)* *
 Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes to reduce vehicle speed when there is a risk of collision.
@@ -112,7 +112,7 @@ Image is for illustration purposes only.
 *Front Digital Video Recorder (DVR) with Smartphone Connectivity*
 Records your journeys for your protection should a recording prove helpful.
 
-## CONNECTIVI-T
+### CONNECTIVI-T
 Apple CarPlay® and Android Auto™-ready Connectivity*
 Connect your smartphone to the vehicle's 7" display system to select navigation and music options with ease.
 
@@ -128,13 +128,13 @@ Offers convenient charging for Qi standard-compliant devices, without the use of
 Vehicle Telematics System (VTS)
 The integrated system monitors and shares your vehicle's real-time location through a mobile app.
 
-## GUARAN-T
-5-Year Warranty*
-5 years warranty from the date of first registration with unlimited mileage.
+### GUARAN-T
+- 5-Year Warranty*
+- 5 years warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply.
 
-## COLOURS
-Red Mica Metallic
-Platinum White Pearl Mica
-Silver Metallic
+### COLOURS
+- Red Mica Metallic
+- Platinum White Pearl Mica
+- Silver Metallic
