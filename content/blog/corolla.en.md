@@ -15,16 +15,16 @@ A DRIVE TO BE FREE
 
 **Sedan from RM 134,888.00**
 
-**All Corolla Models:
+## All Corolla Models:
 
-## Corolla 1.8G  From RM145,888.00
-TNGA With Double Wishbone Rear Suspension
-Toyota Safety Sense With Advanced Driver Assistance Technology
-3D Panoramic View Monitor (PVM)
+**Corolla 1.8G  From RM145,888.00**
+TNGA With Double Wishbone Rear Suspension.
+Toyota Safety Sense With Advanced Driver Assistance Technology.
+3D Panoramic View Monitor (PVM).
 
-## Corolla 1.8E  From RM134,888.00
-TNGA With Double Wishbone Rear Suspension
-3D Panoramic View Monitor (PVM) (Optional)
+**Corolla 1.8E  From RM134,888.00**
+TNGA With Double Wishbone Rear Suspension.
+3D Panoramic View Monitor (PVM) (Optional).
 
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
@@ -143,8 +143,8 @@ Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on st
 *Terms and conditions apply.
 
 ## COLOURS
-Celestite Gray Metallic
-Platinum White Pearl Mica
-Silver Metallic
-Attitude Black Mica
-Red Mica Metallic
+- Celestite Gray Metallic
+- Platinum White Pearl Mica
+- Silver Metallic
+- Attitude Black Mica
+- Red Mica Metallic
