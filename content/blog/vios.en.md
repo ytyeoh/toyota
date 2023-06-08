@@ -89,6 +89,7 @@ The Vios comes with multiple storage spaces for all your belongings, so you'll n
 #### Hidden Boot Storage
 Located below the main boot space. The perfect hiding place for your valuables.
 
+
 ### PERFORMANCE
 DEFY WITH FULL CONTROL
 
@@ -110,6 +111,7 @@ The engine delivers both improved fuel efficiency and throttle response. Compact
 
 #### New 7-Speed CVT with Sequential Shiftmatic
 Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency.
+
 
 ### 360-T ADVANCED
 Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
@@ -176,6 +178,7 @@ The repair kit can be easily used during a punctured tyre situation which is muc
 *Auto Rain Sensor*
 Automatically activates the wipers and adjust the wiper speed when rain is detected.
 
+
 ### CONNECTIVI-T
 9” Display Audio
 Wireless Apple CarPlay & Android Auto™️
@@ -192,12 +195,14 @@ Convenient charging for 'Qi' compliant devices.
 Vehicle Telematics System (VTS)
 Track and monitor your car's location in real time via Toyota 24SEVEN mobile app with 3 Years Free subscription.
 
+
 ### GUARAN-T
 5-Year Warranty*
 
 5 years vehicle warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply
+
 
 ## COLOURS
 - Spicy Scarlet SE.
