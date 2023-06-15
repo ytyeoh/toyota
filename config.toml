@@ -336,7 +336,7 @@ pluralizelisttitles = false
 [[languages.zh.menu.main]]
     name = "联系"
     identifier = "menu.features"
-    url        = "/contact"
+    url        = "contact"
     weight     = 3
 
 # [[menu.main]]
@@ -376,7 +376,7 @@ pluralizelisttitles = false
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
-    url        = "/contact/"
+    url        = "contact/"
     weight     = 7
 
 
