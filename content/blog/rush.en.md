@@ -139,6 +139,7 @@ Keep your devices charged throughout the whole journey with convenient USB ports
 
 ### GUARAN-T
 5-Year Warranty*
+
 5 years warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply.
