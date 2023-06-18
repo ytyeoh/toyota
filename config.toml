@@ -47,197 +47,81 @@ pluralizelisttitles = false
     weight     = 1
 
 
-[[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Models"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
-[[languages.zh.menu.main]]
-    name = "模型"
-    identifier = "menu.features"
-    url        = "/blog"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
-
-[[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
-    name       = "Accordions"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Alerts"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Price List"
-    identifier = "menu.portfolio"
+    name       = "models"
+    identifier = "menu.model"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
+    name       = "Toyota Insurance Package"
+    identifier = "menu.insurance"
+    url        = "/"
+    weight     = 4
+
+[[menu.main]]
+    name       = "model"
+    identifier = "section.model"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.model"
     post       = 1
 
 [[menu.main]]
     name       = "2 Columns"
     url        = ""
     weight     = 1
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "2 Columns With Negative Space"
     url        = ""
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "3 Columns"
     url        = ""
     weight     = 3
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "3 Columns With Negative Space"
     url        = ""
     weight     = 4
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "4 Columns"
     url        = ""
     weight     = 5
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "4 Columns With Negative Space"
     url        = ""
     weight     = 6
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
-    name       = "Portfolio - detail"
+    name       = "model - detail"
     url        = ""
     weight     = 7
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
+    name       = "model - detail 2"
     url        = ""
     weight     = 8
-    parent     = "section.portfolio"
+    parent     = "section.model"
 
 [[menu.main]]
     name       = "About"
     identifier = "section.about"
     url        = ""
     weight     = 2
-    parent     = "menu.portfolio"
+    parent     = "menu.model"
     post       = 2
 
 [[menu.main]]
@@ -257,7 +141,7 @@ pluralizelisttitles = false
     identifier = "section.marketing"
     url        = ""
     weight     = 3
-    parent     = "menu.portfolio"
+    parent     = "menu.model"
     post       = 2
 
 [[menu.main]]
@@ -267,7 +151,7 @@ pluralizelisttitles = false
     parent     = "section.marketing"
 
 [[menu.main]]
-    name       = "Servicing & Support "
+    name       = "Promotion"
     identifier = "menu.allpages"
     url        = ""
     weight     = 4
@@ -297,8 +181,8 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
+    name       = "model"
+    identifier = "section.ap-model"
     url        = ""
     weight     = 1
     parent     = "menu.allpages"
