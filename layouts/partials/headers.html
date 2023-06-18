@@ -27,6 +27,7 @@
 <link href="{{ "css/animate.css" | relURL }}" rel="stylesheet">
 
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
+<link href="{{ "css/demo-style.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
 {{ with .Site.Params.style }}
   <link href="{{ "css/style" | relURL }}.{{ . }}.css" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
@@ -35,6 +36,8 @@
 
 <!-- Custom stylesheet - for your changes -->
 <link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+
+<link href="{{ "css/demo.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
 
 <!-- Responsivity for older IE -->
 {{ `

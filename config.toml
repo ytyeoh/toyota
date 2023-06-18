@@ -152,73 +152,11 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Promotion"
-    identifier = "menu.allpages"
+    identifier = "menu.promotion"
     url        = ""
     weight     = 4
 
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
 
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "model"
-    identifier = "section.ap-model"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
 [[languages.zh.menu.main]]
     name = "联系"
     identifier = "menu.features"
@@ -363,7 +301,7 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "Toyota"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
