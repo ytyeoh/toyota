@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/fonts/icomoon.eot?gph2x0');
+  src:  url('/fonts/icomoon.eot?gph2x0#iefix') format('embedded-opentype'),
+    url('/fonts/icomoon.ttf?gph2x0') format('truetype'),
+    url('/fonts/icomoon.woff?gph2x0') format('woff'),
+    url('/fonts/icomoon.svg?gph2x0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hatchback:before {
+  content: "\e900";
+}
+.icon-mpv:before {
+  content: "\e901";
+}
+.icon-pickup-truck-icon:before {
+  content: "\e902";
+}
+.icon-sedan-car-icon:before {
+  content: "\e903";
+}
+.icon-suv:before {
+  content: "\e904";
+}
+.icon-electrified:before {
+  content: "\e905";
+}
