@@ -6,15 +6,17 @@ languageCode = "zh"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
-[languages.en]
+  [languages.en]
     languagedirection = 'rtl'
     languageName = "English"
     title = 'Toyota'
     weight = 1
+    languageCode = "en"
   [languages.zh]
     title = '丰田汽车'
     languageName = "中文"
     weight = 2
+    languageCode = "zh"
     [languages.zh.params]
       linkedin = 'https://linkedin.com/whoever'
 # Enable comments by entering your Disqus shortname
