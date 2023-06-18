@@ -21,11 +21,6 @@ AWAKEN THE POWERFUL
 - Horsepower: 388
 - Torque: 500 Nm
 - 0-100km/h: 4.1 sec
-
-On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
-Prices shown are subject to change and are governed by the terms and conditions of this website.
-
-Image is for illustration purposes only.
  
 ## NEW GR SUPRA
 Prepare for the most exhilarating driving experience yet. A turbo-charged 3.0-litre in-line six-cylinder engine delivering 388 PS and a maximum torque of 500Nm at 1800-5000 rpm with an optimum weight distribution and a highly rigid frame come together to offer the performance, body and soul of a true sports car.
