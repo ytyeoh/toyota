@@ -15,17 +15,12 @@ AWAKEN THE SENSES
 
 **Coupe from RM 295,000.00**
 
-## GR SUPRA Models:
+## GR86 Models:
 
 **GR86 M/T  From RM295,000.00**
 - Horsepower: 237 PS
 - Max Torque: 250 Nm
 - Boxer 4-cylinder: DOHC (D-4S Direct and Port Injection System)
-
-On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
-Prices shown are subject to change and are governed by the terms and conditions of this website.
-
-Image is for illustration purposes only.
  
 ## GR86 M/T
 The birth of a formidable machine forged through great engineering and man-made resolve has taken form of a modern-day sports car. Hear it roar down the highway with its powerful 2.4L engine. Feel the winds as it accelerates, reaching high speeds in an instant.
