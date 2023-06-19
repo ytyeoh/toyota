@@ -9,9 +9,19 @@ images = 5
 
 
 design:
+  name: "Design & Confort"
   -title: "All-New Fastback"
    description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
-   img: "vious-3"
+   img: "vios-3"
+  -title: "LED Headlamps with Auto High Beam and Follow Me Home Function"
+   description: "New sleek design that delivers an unmistakable brightness and improved driving visibility."
+   img: "vios-3"
+
+performance:
+  name: "Design & Confort"
+  -title: "All-New Fastback"
+   description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
+   img: "vios-3"
 
 +++
 ## ALL-NEW VIOS
