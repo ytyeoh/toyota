@@ -196,11 +196,13 @@ The integrated system monitors and shares your vehicle's real-time location thro
 
 ### GUARAN-T
 - 5-Year Warranty*
+- 
 5 years vehicle warranty from the date of first registration with unlimited mileage.
 
 *Terms and conditions apply.
 
 - 8-Year Warranty*
+- 
 8 years warranty from the date of first registration with unlimited mileage covering the Hybrid Electric Vehicle (HEV) battery, inverter and power management control ECU. Hybrid Electric Warranty can be extended for another 2 years (9th & 10th year).
 
 *Terms and conditions apply.
