@@ -7,11 +7,6 @@ banner = "img/sedan/vios/vios-1.jpg"
 location = "img/sedan/vios"
 images = 5
 
-performance:
-  name: "Design & Confort"
-  -title: "All-New Fastback"
-   description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
-   img: "vios-3"
 
 +++
 ## ALL-NEW VIOS
@@ -49,80 +44,94 @@ design:
   name: "Design & Confort"
   -title: "All-New Fastback"
    description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
-   img: "vios-3"
+   img: "vios-2"
   -title: "LED Headlamps with Auto High Beam and Follow Me Home Function"
    description: "New sleek design that delivers an unmistakable brightness and improved driving visibility."
    img: "vios-3"
-
-#### LED Headlamps with Auto High Beam and Follow Me Home Function
-New sleek design that delivers an unmistakable brightness and improved driving visibility.
-
-#### Front Aerodynamic Air Vents
-Improves brake cooling performance and reduces drag for better handling and stability.
-
-#### 17" Alloy Rims
-10 spoke design that radiates out from the centre hub to the outer edge of the wheel.
-
-#### Rear Sequential Turn Signal
-The sequential signal light provides advanced & premium feel with distinctive illumination.
-
-#### Rear Diffuser & Air Canards
-Directs airflow to maintain a low centre of gravity and better traction.
-
-#### 7" TFT Multi-information Display Digital Meter
-Customise your view to match your drive. Switch between 4 types of visual displays from steering wheel.
-
-#### Multi-Function Leather Steering Wheel
-
-#### Electronic Parking Brake (EPB) with Auto Brake Hold (ABH)
-No more putting the car in brake when parking or holding down the brake in congested traffic.
-
-#### 64-Colour Ambient Light Switch
-Change your mood with a flick of a button.
-
-#### Auto Air-Cond
-Automatically adjusts the cooling and ventilation by detecting the temperature and humidity inside the cabin.
-
-#### Cabin Quietness
-The all-new Toyota platform greatly suppresses external noise and vibration. With foam filled cavities and less holes in the body, the result is superior quietness that defies the category.
-
-#### Ergonomic Seats
-Designed to give the right ergonomics for long drives complemented with premium materials. Optimised not just for maximum support but also maximum headroom as well as the ease of getting in and out of the Vios.
-
-#### Rear Air-Cond Vent
-Comfort is enhanced for all passengers with optimum cooling for the rear passengers.
-
-#### Various Storages Spaces
-The Vios comes with multiple storage spaces for all your belongings, so you'll never run out of room!
-
-#### 475 Litres Wide & Deep Boot Space
-
-#### Hidden Boot Storage
-Located below the main boot space. The perfect hiding place for your valuables.
+  -title: "Front Aerodynamic Air Vents"
+   description: "Improves brake cooling performance and reduces drag for better handling and stability."
+   img: "vios-4"
+  -title: "17" Alloy Rims"
+   description: "10 spoke design that radiates out from the centre hub to the outer edge of the wheel."
+   img: "vios-5"
+  -title: "Rear Sequential Turn Signal"
+   description: "The sequential signal light provides advanced & premium feel with distinctive illumination."
+   img: "vios-6"
+  -title: "Rear Diffuser & Air Canards"
+   description: "Directs airflow to maintain a low centre of gravity and better traction."
+   img: "vios-7"
+  -title: "7" TFT Multi-information Display Digital Meter"
+   description: "Customise your view to match your drive. Switch between 4 types of visual displays from 
+                 steering wheel."
+   img: "vios-8"
+  -title: "Multi-Function Leather Steering Wheel"
+   description: ""
+   img: "vios-9"
+  -title: "Electronic Parking Brake (EPB) with Auto Brake Hold (ABH)"
+   description: "No more putting the car in brake when parking or holding down the brake in congested traffic."
+   img: "vios-10"
+  -title: "64-Colour Ambient Light Switch"
+   description: "Change your mood with a flick of a button."
+   img: "vios-11"
+  -title: "Auto Air-Cond"
+   description: "Automatically adjusts the cooling and ventilation by detecting the temperature and humidity 
+                 inside the cabin."
+   img: "vios-12"
+ -title: "Cabin Quietness"
+   description: "The all-new Toyota platform greatly suppresses external noise and vibration. With foam filled 
+                 cavities and less holes in the body, the result is superior quietness that defies the category."
+   img: "vios-13"
+ -title: "Ergonomic Seats"
+   description: "Designed to give the right ergonomics for long drives complemented with premium materials. 
+                 Optimised not just for maximum support but also maximum headroom as well as the ease of getting 
+                 in and out of the Vios."
+   img: "vios-14"
+ -title: "Rear Air-Cond Vent"
+   description: "Comfort is enhanced for all passengers with optimum cooling for the rear passengers."
+   img: "vios-15"
+ -title: "Various Storages Spaces"
+   description: "The Vios comes with multiple storage spaces for all your belongings, so you'll never run out of 
+                 room!"
+   img: "vios-16"
+ -title: "475 Litres Wide & Deep Boot Space"
+   description: ""
+   img: "vios-17"
+ -title: "Hidden Boot Storage"
+   description: "Located below the main boot space. The perfect hiding place for your valuables."
+   img: "vios-18"
 
 
 ### PERFORMANCE
-DEFY WITH FULL CONTROL
-
-#### All-New Platform
-Toyota's latest and most advanced platform. With higher structural rigidity and stability. All while remaining lightweight and compact. It not only improves the overall handling and stability but also provides better collision safety. With various reinforcements in key areas to protect passengers in the event of an accident.
-
-#### Paddle Shifters
-Tuned for a more engaging driving experience. With faster and more precise gear changes.
-
-#### 3 Drive Modes
-Power I Eco I Normal
-Switch between a relaxing and an exhilarating drive.
-
-#### Enhanced Suspension System
-Tuned for nimble handling and excellent straight-line stability. With better ride comfort while reducing body roll.
-
-#### Toyota DOHC + Dual VVT-i 106 PS | 138 Nm
-The engine delivers both improved fuel efficiency and throttle response. Compact and reliable for a spirited drive every day.
-
-#### New 7-Speed CVT with Sequential Shiftmatic
-Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency.
-
+performance:
+  name: "Performance"
+  -title: "DEFY WITH FULL CONTROL"
+   description: ""
+   img: "vios-19"
+  -title: "All-New Platform"
+   description: "Toyota's latest and most advanced platform. With higher structural rigidity and stability. All 
+                 while remaining lightweight and compact. It not only improves the overall handling and 
+                 stability but also provides better collision safety. With various reinforcements in key areas 
+                to protect passengers in the event of an accident."
+   img: "vios-20"
+  -title: "Paddle Shifters"
+   description: "Tuned for a more engaging driving experience. With faster and more precise gear changes."
+   img: "vios-21"
+  -title: "3 Drive Modes"
+   description: "Power I Eco I Normal
+                 Switch between a relaxing and an exhilarating drive."
+   img: "vios-22"
+  -title: "Enhanced Suspension System"
+   description: "Tuned for nimble handling and excellent straight-line stability. With better ride comfort while reducing body roll."
+   img: "vios-23"
+  -title: "Toyota DOHC + Dual VVT-i 106 PS | 138 Nm"
+   description: "The engine delivers both improved fuel efficiency and throttle response. Compact and reliable 
+                 for a spirited drive every day."
+   img: "vios-24"
+  -title: "New 7-Speed CVT with Sequential Shiftmatic"
+   description: "Designed for a more dynamic driving experience in both auto and manual modes. With improved 
+                 acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel 
+                 efficiency."
+   img: "vios-25"
 
 ### 360-T ADVANCED
 Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
