@@ -3,19 +3,9 @@ title = "VIOS"
 
 tags = ["Sedan", "programming", "theme", "hugo"]
 categories = ["Sedan"]
-banner = "img/banners/banner-4.jpg"
-location = "img/banners/banner-"
+banner = "img/sedan/vios/vios-1.jpg"
+location = "img/sedan/vios"
 images = 5
-
-
-design:
-  name: "Design & Confort"
-  -title: "All-New Fastback"
-   description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
-   img: "vios-3"
-  -title: "LED Headlamps with Auto High Beam and Follow Me Home Function"
-   description: "New sleek design that delivers an unmistakable brightness and improved driving visibility."
-   img: "vios-3"
 
 performance:
   name: "Design & Confort"
@@ -55,8 +45,14 @@ Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your j
 - Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA)
 
 ### DESIGN & COMFORT
-#### All-New Fastback
-Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy.
+design:
+  name: "Design & Confort"
+  -title: "All-New Fastback"
+   description: "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
+   img: "vios-3"
+  -title: "LED Headlamps with Auto High Beam and Follow Me Home Function"
+   description: "New sleek design that delivers an unmistakable brightness and improved driving visibility."
+   img: "vios-3"
 
 #### LED Headlamps with Auto High Beam and Follow Me Home Function
 New sleek design that delivers an unmistakable brightness and improved driving visibility.
