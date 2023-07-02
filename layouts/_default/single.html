@@ -63,6 +63,10 @@
                           {{ .Content }}
                         	
                         </div>
+                        <div class="row">
+
+                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.performance "name" "performance") }}
+                        </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">

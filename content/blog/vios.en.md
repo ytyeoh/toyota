@@ -6,7 +6,38 @@ categories = ["Sedan"]
 banner = "img/sedan/vios/vios-1.jpg"
 location = "img/sedan/vios"
 images = 5
+[performance]
+   
+   [[performance.link]]
+     title= "DEFY WITH FULL CONTROL"
+     description= "ff"
+     img= "vios-19"
+   [[performance.link]]
+     title= "All-New Platform"
+     description= "Toyota's latest and most advanced platform. With higher structural rigidity and stability. All while remaining lightweight and compact. It not only improves the overall handling and stability but also provides better collision safety. With various reinforcements in key areas to protect passengers in the event of an accident."
+     img= "vios-20"
+    [[performance.link]]
+     title= "Paddle Shifters"
+     description= "Tuned for a more engaging driving experience. With faster and more precise gear changes."
+     img= "vios-21"
+    [[performance.link]]
+     title= "3 Drive Modes"
+     description= "Power I Eco I Normal Switch between a relaxing and an exhilarating drive."
+     img= "vios-22"
+    [[performance.link]]
+     title= "Enhanced Suspension System"
+     description= "Tuned for nimble handling and excellent straight-line stability. With better ride comfort while reducing body roll."
+     img= "vios-23"
+     [[performance.link]]
+     title= "Toyota DOHC + Dual VVT-i 106 PS | 138 Nm"
+     description= "The engine delivers both improved fuel efficiency and throttle response. Compact and reliable for a spirited drive every day."
+     img= "vios-24"
+    [[performance.link]]
+     title= "New 7-Speed CVT with Sequential Shiftmatic"
+     description= "Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency."
+     img= "vios-25"
 
+  
 
 +++
 ## ALL-NEW VIOS
@@ -102,36 +133,7 @@ design:
 
 
 ### PERFORMANCE
-performance:
-  name: "Performance"
-  -title: "DEFY WITH FULL CONTROL"
-   description: ""
-   img: "vios-19"
-  -title: "All-New Platform"
-   description: "Toyota's latest and most advanced platform. With higher structural rigidity and stability. All 
-                 while remaining lightweight and compact. It not only improves the overall handling and 
-                 stability but also provides better collision safety. With various reinforcements in key areas 
-                to protect passengers in the event of an accident."
-   img: "vios-20"
-  -title: "Paddle Shifters"
-   description: "Tuned for a more engaging driving experience. With faster and more precise gear changes."
-   img: "vios-21"
-  -title: "3 Drive Modes"
-   description: "Power I Eco I Normal
-                 Switch between a relaxing and an exhilarating drive."
-   img: "vios-22"
-  -title: "Enhanced Suspension System"
-   description: "Tuned for nimble handling and excellent straight-line stability. With better ride comfort while reducing body roll."
-   img: "vios-23"
-  -title: "Toyota DOHC + Dual VVT-i 106 PS | 138 Nm"
-   description: "The engine delivers both improved fuel efficiency and throttle response. Compact and reliable 
-                 for a spirited drive every day."
-   img: "vios-24"
-  -title: "New 7-Speed CVT with Sequential Shiftmatic"
-   description: "Designed for a more dynamic driving experience in both auto and manual modes. With improved 
-                 acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel 
-                 efficiency."
-   img: "vios-25"
+
 
 ### 360-T ADVANCED
 Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.

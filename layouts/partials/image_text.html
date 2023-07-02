@@ -1,0 +1,13 @@
+<div class="col-12">
+	<h3>{{.name}}</h3>
+</div>
+{{ range  .ppp }}
+	{{ range .}}
+	<div class="col-12">
+		<div class="img">
+			<img src="{{.img}}" alt="">iii
+		</div>
+		{{ .title }}
+	</div>
+  {{ end}}
+{{ end }}
