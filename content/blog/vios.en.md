@@ -202,7 +202,7 @@ DEFY EXPECTATIONS
 On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
 Prices shown are subject to change and are governed by the terms and conditions of this website.
 
-Image is for illustration purposes only.
+Image is for illustration purposes only. 
  
 ## ALL-NEW VIOS
 Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your journey starts and ends. Defy the norm and set a new course with the Vios.
