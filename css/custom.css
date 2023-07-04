@@ -14,3 +14,7 @@
 .box-simple {
     min-height: 230px;
 }
+.a-card{
+  margin: 2rem;
+  border: 1px solid black;
+}
