@@ -65,7 +65,11 @@
                         </div>
                         <div class="row">
 
-                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.performance "name" "performance") }}
+                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.design "name" "design & comfort" "path" .Params.img_path) }}
+
+                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.performance "name" "performance" "path" .Params.img_path) }}
+
+                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.safety "name" "safety" "path" .Params.img_path) }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}

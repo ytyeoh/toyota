@@ -5,9 +5,9 @@ tags = ["Sedan", "programming", "theme", "hugo"]
 categories = ["Sedan"]
 banner = "img/sedan/vios/vios-1.jpg"
 location = "img/sedan/vios"
+img_path = "img/model/vios/"
 images = 5
-[design&comfort]
-   
+[design]
    [[design.link]]
      title= "All-New Fastback"
      description= "Featuring an imposing front end yet rear biased cabin. With a sporty lowered body yet refined for comfort. It's not the Vios you know yet it's unmistakably Vios. Look ahead, not behind. Defy."
@@ -21,7 +21,7 @@ images = 5
      description= "Improves brake cooling performance and reduces drag for better handling and stability."
      img= "vios-4"
    [[design.link]]
-     title= "17" Alloy Rims"
+     title= "17 Alloy Rims"
      description= "10 spoke design that radiates out from the centre hub to the outer edge of the wheel."
      img= "vios-5"
    [[design.link]]
@@ -33,7 +33,7 @@ images = 5
      description= "Directs airflow to maintain a low centre of gravity and better traction."
      img= "vios-7"
    [[design.link]]
-     title= "7" TFT Multi-information Display Digital Meter"
+     title= "7 TFT Multi-information Display Digital Meter"
      description= "Customise your view to match your drive. Switch between 4 types of visual displays from steering wheel."
      img= "vios-8"
    [[design.link]]
@@ -81,29 +81,29 @@ images = 5
    
    [[performance.link]]
      title= "DEFY WITH FULL CONTROL"
-     description= "ff"
+     description= ""
      img= "vios-19"
    [[performance.link]]
      title= "All-New Platform"
      description= "Toyota's latest and most advanced platform. With higher structural rigidity and stability. All while remaining lightweight and compact. It not only improves the overall handling and stability but also provides better collision safety. With various reinforcements in key areas to protect passengers in the event of an accident."
      img= "vios-20"
-    [[performance.link]]
+   [[performance.link]]
      title= "Paddle Shifters"
      description= "Tuned for a more engaging driving experience. With faster and more precise gear changes."
      img= "vios-21"
-    [[performance.link]]
+   [[performance.link]]
      title= "3 Drive Modes"
      description= "Power I Eco I Normal Switch between a relaxing and an exhilarating drive."
      img= "vios-22"
-    [[performance.link]]
+   [[performance.link]]
      title= "Enhanced Suspension System"
      description= "Tuned for nimble handling and excellent straight-line stability. With better ride comfort while reducing body roll."
      img= "vios-23"
-     [[performance.link]]
+   [[performance.link]]
      title= "Toyota DOHC + Dual VVT-i 106 PS | 138 Nm"
      description= "The engine delivers both improved fuel efficiency and throttle response. Compact and reliable for a spirited drive every day."
      img= "vios-24"
-    [[performance.link]]
+   [[performance.link]]
      title= "New 7-Speed CVT with Sequential Shiftmatic"
      description= "Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency."
      img= "vios-25"
@@ -112,43 +112,35 @@ images = 5
    
    [[safety.link]]
      title= "Defy With Confidence"
-     description= "Now equipped with a 360º suite of advanced safety technologies for a safer drive for everyone in the Vios.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Now equipped with a 360º suite of advanced safety technologies for a safer drive for everyone in the Vios.*Driver remains solely responsible for safe driving at all times."
      img= "vios-26"
    [[safety.link]]
      title= "Pre-Collision System (PCS)*"
-     description= "Uses Stereo Camera to detect potential collisions with other vehicles or pedestrians. Automatically apply the brakes to reduce the severity of a crash or prevent it.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Uses Stereo Camera to detect potential collisions with other vehicles or pedestrians. Automatically apply the brakes to reduce the severity of a crash or prevent it.*Driver remains solely responsible for safe driving at all times."
      img= "vios-27"
    [[safety.link]]
      title= "Adaptive Cruise Control (ACC)*"
-     description= "Detects speed and distance of vehicles in front to automatically adjust and maintain speed from a safe following distance.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Detects speed and distance of vehicles in front to automatically adjust and maintain speed from a safe following distance.*Driver remains solely responsible for safe driving at all times."
      img= "vios-28"
    [[safety.link]]
      title= "Front Departure Alert (FDA)*"
-     description= "Automatic notification when the vehicle in front has departed. Alerts the driver via the display and audio buzz.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Automatic notification when the vehicle in front has departed. Alerts the driver via the display and audio buzz.*Driver remains solely responsible for safe driving at all times."
      img= "vios-29"
    [[safety.link]]
      title= "Auto High Beam (AHB)*"
-     description= "Detects headlights of oncoming vehicles and proximity of taillights and switches automatically between low and high beam.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Detects headlights of oncoming vehicles and proximity of taillights and switches automatically between low and high beam.*Driver remains solely responsible for safe driving at all times."
      img= "vios-30"
    [[safety.link]]
      title= "Lane Departure Warning (LDW)*"
-     description= "Detects when vehicle is drifting out of its lane. Alerts the driver via the display and audio buzz.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Detects when vehicle is drifting out of its lane. Alerts the driver via the display and audio buzz.*Driver remains solely responsible for safe driving at all times."
      img= "vios-31"
    [[safety.link]]
      title= "Lane Departure Prevention (LDP)*"
-     description= "Automatically makes corrective steering to help driver keep the vehicle in its lane. Alerts the driver via the display and audio buzz.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Automatically makes corrective steering to help driver keep the vehicle in its lane. Alerts the driver via the display and audio buzz.*Driver remains solely responsible for safe driving at all times."
      img= "vios-32"
-        [[safety.link]]
+   [[safety.link]]
      title= "Lane Keeping Control (LKC)*"
-     description= "Constantly keeps the vehicle centred in its lane by actively applying slight corrective steering.
-*Driver remains solely responsible for safe driving at all times."
+     description= "Constantly keeps the vehicle centred in its lane by actively applying slight corrective steering.*Driver remains solely responsible for safe driving at all times."
      img= "vios-33"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -160,8 +152,7 @@ images = 5
      img= "vios-35"
    [[safety.link]]
      title= "6 Parking Alert Sensors"
-     description= "Ultrasonic sensors on the front and rear that detects and alerts on the proximity of the obstacle.
-Front: 2 sensors Rear: 4 sensors"
+     description= "Ultrasonic sensors on the front and rear that detects and alerts on the proximity of the obstacle. Front: 2 sensors Rear: 4 sensors"
      img= "vios-36"
    [[safety.link]]
      title= "6 SRS Airbags"

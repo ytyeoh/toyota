@@ -35,9 +35,12 @@
 {{ end }}
 
 <!-- Custom stylesheet - for your changes -->
+<link href="{{ "css/bootstrap-grid.min.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+<link href="{{ "css/bootstrap-utilities.min.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
 <link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
 
 <link href="{{ "css/demo.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+
 
 <!-- Responsivity for older IE -->
 {{ `
