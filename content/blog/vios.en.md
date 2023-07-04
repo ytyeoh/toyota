@@ -21,7 +21,7 @@ images = 5
      description= "Improves brake cooling performance and reduces drag for better handling and stability."
      img= "vios-4"
    [[design.link]]
-     title= "17 Alloy Rims"
+     title= '17" Alloy Rims'
      description= "10 spoke design that radiates out from the centre hub to the outer edge of the wheel."
      img= "vios-5"
    [[design.link]]
@@ -33,7 +33,7 @@ images = 5
      description= "Directs airflow to maintain a low centre of gravity and better traction."
      img= "vios-7"
    [[design.link]]
-     title= "7 TFT Multi-information Display Digital Meter"
+     title= '7" TFT Multi-information Display Digital Meter'
      description= "Customise your view to match your drive. Switch between 4 types of visual displays from steering wheel."
      img= "vios-8"
    [[design.link]]
@@ -202,9 +202,7 @@ Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your j
 - 3D Panoramic View Monitor (PVM)
 - Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA)
 
-### DESIGN & COMFORT
 
-### PERFORMANCE
 
 ### 360-T ADVANCED
 Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
