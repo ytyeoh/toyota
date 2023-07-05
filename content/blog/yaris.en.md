@@ -80,7 +80,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
      description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes to reduce vehicle speed when there is a risk of collision.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "yaris-17"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert*"
