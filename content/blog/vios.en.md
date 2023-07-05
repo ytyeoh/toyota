@@ -78,7 +78,6 @@ images = 5
      img= "vios-18"
  
 [performance]
-   
    [[performance.link]]
      title= "DEFY WITH FULL CONTROL"
      description= ""
@@ -108,8 +107,10 @@ images = 5
      description= "Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency."
      img= "vios-25"
 
-[safety]
-   
+### 360-T ADVANCED
+Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
+
+[safe-t]  
    [[safety.link]]
      title= "Defy With Confidence"
      description= "Now equipped with a 360º suite of advanced safety technologies for a safer drive for everyone in the Vios.*Driver remains solely responsible for safe driving at all times."
@@ -171,6 +172,36 @@ images = 5
      description= "Automatically activates the wipers and adjust the wiper speed when rain is detected."
      img= "vios-40"
 
+[connectivi-t]
+   [[connectivit.link]]
+     title= '9” Display Audio'
+     description= "Wireless Apple CarPlay & Android Auto™️"
+     img= "vios-41"
+   [[connectivit.link]]
+     title= "Front & Rear Digital Video Recorder (DVR)*"
+     description= "Convenient access and monitoring via Toyota mobile app.
+*Rear DVR is an optional accessory"
+     img= "vios-42"
+   [[connectivit.link]]
+     title= "Fast Charging Rear USB Ports"
+     description= ""
+     img= "vios-43"
+   [[connectivit.link]]
+     title= "Wireless Charger"
+     description= "Convenient charging for 'Qi' compliant devices."
+     img= "vios-44"
+   [[connectivit.link]]
+     title= "Vehicle Telematics System (VTS)"
+     description= "Track and monitor your car's location in real time via Toyota 24SEVEN mobile app with 3 Years Free subscription."
+     img= "vios-45"
+
+[guaran-t]  
+   [[guarantee.link]]
+     title= "5-Year Warranty*"
+     description= "5 years vehicle warranty from the date of first registration with unlimited mileage.
+*Terms and conditions apply"
+     img= "vios-46"
+  
 +++
 ## ALL-NEW VIOS
 
@@ -201,23 +232,6 @@ Defy perceptions. Defy labels. Defy stereotypes. Defy the limits of where your j
 - Toyota Safety Sense
 - 3D Panoramic View Monitor (PVM)
 - Blind Spot Monitor & Rear Cross Traffic Alert (BSM & RCTA)
-
-
-
-### 360-T ADVANCED
-Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
-
-#### SAFE-T
-
-### CONNECTIVI-T
-
-### GUARAN-T
-5-Year Warranty*
-
-5 years vehicle warranty from the date of first registration with unlimited mileage.
-
-*Terms and conditions apply
-
 
 ### COLOURS
 - Spicy Scarlet SE.
