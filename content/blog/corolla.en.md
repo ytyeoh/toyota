@@ -71,28 +71,28 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
      description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-15"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC) for All Speeds*"
      description= "Maintains a safe distance with preceding vehicle and brakes automatically when the car ahead stops.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-16"
    [[safety.link]]
      title= "Toyota Safety Sense Automatic High Beam (AHB)*"
      description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-17"
    [[safety.link]]
      title= "Toyota Safety Sense
 Lane Departure Alert (LDA)*"
      description= "Alerts you when you unintentionally stray out of the lane. Less swaying, safer driving.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-18"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA)*"
      description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-19"
    [[safety.link]]
      title= "Tyre Pressure Warning System"
@@ -121,14 +121,14 @@ Lane Departure Alert (LDA)*"
    [[safety.link]]
      title= "Hill-start Assist Control (HAC)*"
      description= "Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on steep slopes.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-26"
      
 [guaran-t]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years warranty from the date of first registration with unlimited mileage.
-*Terms and conditions apply."
+<br>*Terms and conditions apply."
      img= "corolla-27"
 
 
