@@ -99,32 +99,32 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
      description= "Alerts driver of potential frontal collision and mitigates effects of a crash.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-22"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA)*"
      description= "Alerts you in case of unintended lane departure. Applies corrective steering if needed.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-23"
    [[safety.link]]
      title= "Toyota Safety Sense Front Departure Alert (FDA)*"
      description= "Audible and visual alert notices driver if they do not notice the car in front has started to move.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-24"
    [[safety.link]]
      title= "Toyota Safety Sense Pedal Misoperation Control*"
      description= "Designed to help avoid or mitigate damage from a forward collision.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-25"
    [[safety.link]]
      title= "Toyota Safety Sense Adaptive Cruise Control (ACC)*"
      description= "Follows the preceding vehicle at a safe distance with its onboard stereo camera.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-26"
    [[safety.link]]
      title= "Toyota Safety Sense Adaptive Driving Beam (ADB)*"
      description= "Automatically adjusts the headlamp light distribution to not dazzle preceding and oncoming vehicles.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "veloz-27"
    [[safety.link]]
      title= "Blind Spot Monitor (BSM)"
@@ -157,7 +157,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Front and Rear Digital Video Recorder (DVR)*"
      description= "HD cameras that automatically document your journey should an incident occur and evidence is needed.
-*Rear DVR is optional."
+<br>*Rear DVR is optional."
      img= "veloz-35"
 
 
@@ -165,10 +165,10 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[connectivit.link]]
      title= '9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*'
      description= "Navigate and play your favourite tunes with ease through wired or wireless connection.
-Apple CarPlay is a trademark of Apple Inc.
-Android Auto™ is a trademark of Google LLC.
-To use Android Auto™ on our car display, you'll need an Android phone running Android 6 or higher, an active plan, and the Android Auto™ app.
-*Android Auto™ will be available when the service is officially launched in Malaysia."
+<br>Apple CarPlay is a trademark of Apple Inc.
+<br>Android Auto™ is a trademark of Google LLC.
+<br>To use Android Auto™ on our car display, you'll need an Android phone running Android 6 or higher, an active plan, and the Android Auto™ app.
+<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
      img= "veloz-36"
    [[connectivit.link]]
      title= "USB Charger & Accessory Socket"
@@ -188,7 +188,7 @@ To use Android Auto™ on our car display, you'll need an Android phone running 
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5-year warranty from the date of first registration with unlimited mileage.
-*Terms and conditions apply."
+<br>*Terms and conditions apply."
      img= "veloz-40"
 
 
