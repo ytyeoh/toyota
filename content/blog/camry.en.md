@@ -27,8 +27,8 @@ images = 5
    [[design.link]]
      title= '9" Capacitive Touch Screen Display With 9-speaker JBL Audio System'
      description= "Can be operated with simple finger movements, provides real sound quality courtesy of Clari-Fi technology and has Apple CarPlay® & Android Auto™-ready connectivity*.
-*Android Auto™ will be available when the service is officially launched in Malaysia.
-Functions may vary depending on smartphone model."
+<br>*Android Auto™ will be available when the service is officially launched in Malaysia.
+<br>Functions may vary depending on smartphone model."
      img= "camry-6"
    [[design.link]]
      title= "Power Adjustable Steering Wheel With Memory Function"
@@ -47,8 +47,8 @@ Functions may vary depending on smartphone model."
    [[performance.link]]
      title= "2.5 L Dynamic Force Engine With VVT-iE"
      description= "The New Camry is powered by a new 2.5 L engine with higher engine output and combustion effciency to exude absolute power on the road.
-Max. Output: 209 PS 6600 rpm
-Max. Torque: 253 Nm 5000 rpm"
+<br>Max. Output: 209 PS 6600 rpm
+<br>Max. Torque: 253 Nm 5000 rpm"
      img= "camry-10"
    [[performance.link]]
      title= "Direct Shift 8-speed Automatic Transmission"
@@ -71,22 +71,22 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
      description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes when there is a risk of collision. Now applies to pedestrians and bicyclists.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-14"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC)*"
      description= "Maintains a safe distance with the preceding vehicle at any speed and brakes automatically when the car ahead slows down. It also allows low-speed following from 0 km/h onwards, speeds up when the turn signal is on to facilitate overtaking (turn-signal-linked control), and slows down when going around curves (curve-speed reduction).
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-15"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA)*"
      description= "The Lane Departure Alert (LDA) warns you when an unintentional lane change is detected, while the Steering Assist gently corrects your steering wheel.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-16"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA)*"
      description= "Keeps the vehicle centered either by detecting the lane or the preceding vehicle.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-17"
    [[safety.link]]
      title= "Panoramic View Monitor"
@@ -95,12 +95,12 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Rear Cross Traffic Auto Brake (RCTAB)*"
      description= "Detects other vehicles approaching from the rear of the vehicle when reversing out from a parking spot, alerts the driver and automatically brakes if a collision might happen.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-19"
    [[safety.link]]
      title= "Intelligent Clearance Sonar (ICS)*"
      description= "When objects are in close proximity, sensors will alert the driver, while the car reduces engine power and brakes automatically.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "camry-20"
    [[safety.link]]
      title= "7 SRS Airbags"
@@ -108,7 +108,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
      img= "camry-21"
    [[safety.link]]
      title= "Front Digital Video Recorder (DVR)"
-     description= "3Records your journey for your protection, should evidence be necessary."
+     description= "Records your journey for your protection, should evidence be necessary."
      img= "camry-22"
 
 [connectivi-t]
@@ -121,7 +121,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years vehicle warranty from the date of first registration with unlimited mileage.
-*Terms and conditions apply."
+<br>*Terms and conditions apply."
      img= "camry-24"
 
 +++
