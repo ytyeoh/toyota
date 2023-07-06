@@ -31,7 +31,7 @@ images = 5
    [[design.link]]
      title= "Optitron Meter with Multi-Information Display (MID)"
      description= "The 4.2" full-colour display shows important vehicle information clearly and welcomes you back every time you start your engine.
-Image is for illustration purposes only."
+<br>Image is for illustration purposes only."
      img= "yaris-7"
    [[design.link]]
      title= "Auto Air-conditioning"
@@ -40,7 +40,7 @@ Image is for illustration purposes only."
    [[design.link]]
      title= "60:40 Folding Seats"
      description= "Get more versatility in space for extra cargo or longer items while still giving ample room for backseat passengers.
-Image is for illustration purposes only."
+<br>Image is for illustration purposes only."
      img= "yaris-9"
    [[design.link]]
      title= "Cup Holder"
@@ -85,7 +85,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert*"
      description= "Alerts you when you are out of the lane unintentionally. Less swaying, smoother driving.
-*Driver remains solely responsible for safe driving at all times."
+<br>*Driver remains solely responsible for safe driving at all times."
      img= "yaris-18"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -102,7 +102,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
    [[safety.link]]
      title= "7 SRS Airbags"
      description= "Driver, front passenger, side, curtain shield, and driver’s knee airbags provide complete protection for the driver and passengers in the event of a collision.
-Image is for illustration purposes only."
+<br>Image is for illustration purposes only."
      img= "yaris-22"
    [[safety.link]]
      title= "Front Digital Video Recorder (DVR) with Smartphone Connectivity"
@@ -117,14 +117,14 @@ Image is for illustration purposes only."
    [[connectivit.link]]
      title= "Apple CarPlay® and Android Auto™-ready Connectivity*"
      description= "Connect your smartphone to the vehicle's 7" display system to select navigation and music options with ease.
-*Android Auto™ will be available when the service is officially launched in Malaysia.
-Functions may vary depending on smartphone model."
+<br>*Android Auto™ will be available when the service is officially launched in Malaysia.
+<br>Functions may vary depending on smartphone model."
      img= "yaris-25"
    [[connectivit.link]]
      title= "Wireless Charger*"
      description= "Offers convenient charging for Qi standard-compliant devices, without the use of a cable.
-*Optional accessory.
-*International standard for wireless charging developed by Wireless Power Consortium."
+<br>*Optional accessory.
+<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "yaris-26"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -135,7 +135,7 @@ Functions may vary depending on smartphone model."
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years warranty from the date of first registration with unlimited mileage.
-*Terms and conditions apply."
+<br>*Terms and conditions apply."
      img= "yaris-28"
 
 +++
