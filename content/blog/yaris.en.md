@@ -104,7 +104,7 @@ images = 5
      description= "Records your journeys for your protection should a recording prove helpful."
      img= "yaris-23"
 
-[connectivi-t]
+[connectivit]
    [[connectivit.link]]
      title= ""
      description= ""
@@ -122,7 +122,7 @@ images = 5
      description= "The integrated system monitors and shares your vehicle's real-time location through a mobile app."
      img= "yaris-27"
 
-[guaran-t]  
+[guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
