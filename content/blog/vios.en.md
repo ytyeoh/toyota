@@ -92,8 +92,7 @@ images = 5
      img= "vios-21"
    [[performance.link]]
      title= "3 Drive Modes"
-     description= "Power I Eco I Normal 
-     <br>Switch between a relaxing and an exhilarating drive."
+     description= "Power I Eco I Normal <br>Switch between a relaxing and an exhilarating drive."
      img= "vios-22"
    [[performance.link]]
      title= "Enhanced Suspension System"
@@ -108,49 +107,41 @@ images = 5
      description= "Designed for a more dynamic driving experience in both auto and manual modes. With improved acceleration from more responsive gear changes at every ratio. Provides best-in-class fuel efficiency."
      img= "vios-25"
 
-### 360-T ADVANCED
-Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures.
-
-[safe-t]  
+[safetyextra]
+  title = "360-T ADVANCED"
+  description = "Trust & Technology From Toyota active safety features that are designed to protect and prevent through various autonomous measures."
+[safety]
    [[safety.link]]
      title= "Defy With Confidence"
-     description= "Now equipped with a 360º suite of advanced safety technologies for a safer drive for everyone in the Vios.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Now equipped with a 360º suite of advanced safety technologies for a safer drive for everyone in the Vios.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-26"
    [[safety.link]]
      title= "Pre-Collision System (PCS)*"
-     description= "Uses Stereo Camera to detect potential collisions with other vehicles or pedestrians. Automatically apply the brakes to reduce the severity of a crash or prevent it.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Uses Stereo Camera to detect potential collisions with other vehicles or pedestrians. Automatically apply the brakes to reduce the severity of a crash or prevent it.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-27"
    [[safety.link]]
      title= "Adaptive Cruise Control (ACC)*"
-     description= "Detects speed and distance of vehicles in front to automatically adjust and maintain speed from a safe following distance.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Detects speed and distance of vehicles in front to automatically adjust and maintain speed from a safe following distance.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-28"
    [[safety.link]]
      title= "Front Departure Alert (FDA)*"
-     description= "Automatic notification when the vehicle in front has departed. Alerts the driver via the display and audio buzz.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Automatic notification when the vehicle in front has departed. Alerts the driver via the display and audio buzz.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-29"
    [[safety.link]]
      title= "Auto High Beam (AHB)*"
-     description= "Detects headlights of oncoming vehicles and proximity of taillights and switches automatically between low and high beam.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Detects headlights of oncoming vehicles and proximity of taillights and switches automatically between low and high beam.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-30"
    [[safety.link]]
      title= "Lane Departure Warning (LDW)*"
-     description= "Detects when vehicle is drifting out of its lane. Alerts the driver via the display and audio buzz.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Detects when vehicle is drifting out of its lane. Alerts the driver via the display and audio buzz.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-31"
    [[safety.link]]
      title= "Lane Departure Prevention (LDP)*"
-     description= "Automatically makes corrective steering to help driver keep the vehicle in its lane. Alerts the driver via the display and audio buzz.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Automatically makes corrective steering to help driver keep the vehicle in its lane. Alerts the driver via the display and audio buzz.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-32"
    [[safety.link]]
      title= "Lane Keeping Control (LKC)*"
-     description= "Constantly keeps the vehicle centred in its lane by actively applying slight corrective steering.
-     <br>*Driver remains solely responsible for safe driving at all times."
+     description= "Constantly keeps the vehicle centred in its lane by actively applying slight corrective steering.<br>*Driver remains solely responsible for safe driving at all times."
      img= "vios-33"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -162,8 +153,7 @@ Trust & Technology From Toyota active safety features that are designed to prote
      img= "vios-35"
    [[safety.link]]
      title= "6 Parking Alert Sensors"
-     description= "Ultrasonic sensors on the front and rear that detects and alerts on the proximity of the obstacle. 
-     <br>Front: 2 sensors Rear: 4 sensors"
+     description= "Ultrasonic sensors on the front and rear that detects and alerts on the proximity of the obstacle. <br>Front: 2 sensors Rear: 4 sensors"
      img= "vios-36"
    [[safety.link]]
      title= "6 SRS Airbags"
@@ -189,8 +179,7 @@ Trust & Technology From Toyota active safety features that are designed to prote
      img= "vios-41"
    [[connectivit.link]]
      title= "Front & Rear Digital Video Recorder (DVR)*"
-     description= "Convenient access and monitoring via Toyota mobile app.
-<br>*Rear DVR is an optional accessory"
+     description= "Convenient access and monitoring via Toyota mobile app.<br>*Rear DVR is an optional accessory"
      img= "vios-42"
    [[connectivit.link]]
      title= "Fast Charging Rear USB Ports"
@@ -208,8 +197,7 @@ Trust & Technology From Toyota active safety features that are designed to prote
 [guaran-t]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years vehicle warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply"
+     description= "5 years vehicle warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply"
      img= "vios-46"
   
 +++

@@ -57,23 +57,20 @@ images = 5
      img= "innova-12"
    [[performance.link]]
      title= "Driver Mode Switch"
-     description= "Choose from 3 drive modes:
-<br>Normal: The best balance between fuel efficiency and performance for everyday use.
-<br>ECO: Reduces power consumption and optimises air-conditioning cooling for maximum efficiency.
-<br>Power: Enhances acceleration for a more exciting drive."
+     description= "Choose from 3 drive modes:<br>Normal: The best balance between fuel efficiency and performance for everyday use.<br>ECO: Reduces power consumption and optimises air-conditioning cooling for maximum efficiency.<br>Power: Enhances acceleration for a more exciting drive."
      img= "innova-13"
  
-
-[safe-t]  
+[safetyextra]
+  title = ""
+  description = ""
+[safety]  
    [[safety.link]]
      title= "Blind Spot Monitor (BSM) With Rear Cross Traffic Alert (RCTA)"
-     description= "Lights up when other vehicles are in your blind spot and alerts driver to incoming vehicles in your reverse path.
-<br>Included with X and G grades, optional for E.
+     description= "Lights up when other vehicles are in your blind spot and alerts driver to incoming vehicles in your reverse path.<br>Included with X and G grades, optional for E."
      img= "innova-14"
    [[safety.link]]
      title= "Panoramic View Monitor (PVM)"
-     description= "The 360-degree view allows you to be aware of hazards around your vehicle when parking.
-<br>Included with X and G grades, optional for E."
+     description= "The 360-degree view allows you to be aware of hazards around your vehicle when parking.<br>Included with X and G grades, optional for E."
      img= "innova-15"
    [[safety.link]]
      title= "Emergency Stop Signal"
@@ -96,19 +93,15 @@ images = 5
 [CONNECTIVITY]
    [[connectivit.link]]
      title= "Wireless Charger*"
-     description= "Conveniently charge your Qi standard-compliant devices without the use of cable.
-<br>*International standard for wireless charging developed by Wireless Power Consortium."
+     description= "Conveniently charge your Qi standard-compliant devices without the use of cable.<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "innova-20"
    [[connectivit.link]]
-     title= '9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*'
-     description= "Select navigation and music options through phone or built-in controls.
-<br>Included with X and G grades, optional for E.
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
+     title= "9' Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*"
+     description= "Select navigation and music options through phone or built-in controls.<br>Included with X and G grades, optional for E.<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
      img= "innova-21"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
-     description= "Track and monitor your vehicle's real time location through the Toyota VTS mobile app.
-<br>Included with X and G grades, optional for E."
+     description= "Track and monitor your vehicle's real time location through the Toyota VTS mobile app.<br>Included with X and G grades, optional for E."
      img= "innova-22"
 
 

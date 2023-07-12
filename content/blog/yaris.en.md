@@ -30,8 +30,7 @@ images = 5
      img= "yaris-6"
    [[design.link]]
      title= "Optitron Meter with Multi-Information Display (MID)"
-     description= "The 4.2" full-colour display shows important vehicle information clearly and welcomes you back every time you start your engine.
-<br>Image is for illustration purposes only."
+     description= "The 4.2' full-colour display shows important vehicle information clearly and welcomes you back every time you start your engine.<br>Image is for illustration purposes only."
      img= "yaris-7"
    [[design.link]]
      title= "Auto Air-conditioning"
@@ -39,8 +38,7 @@ images = 5
      img= "yaris-8"
    [[design.link]]
      title= "60:40 Folding Seats"
-     description= "Get more versatility in space for extra cargo or longer items while still giving ample room for backseat passengers.
-<br>Image is for illustration purposes only."
+     description= "Get more versatility in space for extra cargo or longer items while still giving ample room for backseat passengers.<br>Image is for illustration purposes only."
      img= "yaris-9"
    [[design.link]]
      title= "Cup Holder"
@@ -69,23 +67,21 @@ images = 5
      description= "Switch it up any way you like! Choose between Sport and ECO mode based on your driving preference."
      img= "yaris-15"
 
-### 360-T
-Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
-
-[safe-t]  
+[safetyextra]
+  title = "360-T"
+  description = "Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control."
+[safety]
    [[safety.link]]
      title= ""
      description= ""
      img= "yaris-16"
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes to reduce vehicle speed when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applying the brakes to reduce vehicle speed when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "yaris-17"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert*"
-     description= "Alerts you when you are out of the lane unintentionally. Less swaying, smoother driving.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Alerts you when you are out of the lane unintentionally. Less swaying, smoother driving.<br>*Driver remains solely responsible for safe driving at all times."
      img= "yaris-18"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -101,8 +97,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
      img= "yaris-21"
    [[safety.link]]
      title= "7 SRS Airbags"
-     description= "Driver, front passenger, side, curtain shield, and driver’s knee airbags provide complete protection for the driver and passengers in the event of a collision.
-<br>Image is for illustration purposes only."
+     description= "Driver, front passenger, side, curtain shield, and driver’s knee airbags provide complete protection for the driver and passengers in the event of a collision.<br>Image is for illustration purposes only."
      img= "yaris-22"
    [[safety.link]]
      title= "Front Digital Video Recorder (DVR) with Smartphone Connectivity"
@@ -116,15 +111,11 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
      img= "yaris-24"
    [[connectivit.link]]
      title= "Apple CarPlay® and Android Auto™-ready Connectivity*"
-     description= "Connect your smartphone to the vehicle's 7" display system to select navigation and music options with ease.
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia.
-<br>Functions may vary depending on smartphone model."
+     description= "Connect your smartphone to the vehicle's 7' display system to select navigation and music options with ease.<br>*Android Auto™ will be available when the service is officially launched in Malaysia.<br>Functions may vary depending on smartphone model."
      img= "yaris-25"
    [[connectivit.link]]
      title= "Wireless Charger*"
-     description= "Offers convenient charging for Qi standard-compliant devices, without the use of a cable.
-<br>*Optional accessory.
-<br>*International standard for wireless charging developed by Wireless Power Consortium."
+     description= "Offers convenient charging for Qi standard-compliant devices, without the use of a cable.<br>*Optional accessory.<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "yaris-26"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -134,8 +125,7 @@ Drive with confidence knowing that your Toyota is well-equipped with state-of-th
 [guaran-t]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "yaris-28"
 
 +++

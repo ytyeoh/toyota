@@ -65,11 +65,21 @@
                         </div>
                         <div class="row">
 
-                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.design "name" "design & comfort" "path" .Params.img_path) }}
+                        	{{ partial "image_no_title.html" (dict "context" . "ppp" .Params.design "name" "design & comfort" "path" .Params.img_path) }}
 
-                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.performance "name" "performance" "path" .Params.img_path) }}
+                        	{{ partial "image_no_title.html" (dict "context" . "ppp" .Params.performance "name" "performance" "path" .Params.img_path) }}
 
-                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.safety "name" "safety" "path" .Params.img_path) }}
+                        	
+
+                        	{{ partial "image_no_title.html" (dict "context" . "ppp" .Params.design "name" "design" "path" .Params.img_path) }}
+                        	
+							{{ if isset .Params "safetyextra" }}
+	                        	{{ partial "image_text.html" (dict "context" . "ppp" .Params.safety "ppp_title" .Params.safetyextra "name" "safety" "path" .Params.img_path) }}
+
+                        	{{ else }}
+                        		{{ partial "image_no_title.html" (dict "context" . "ppp" .Params.safety "name" "safety" "path" .Params.img_path) }}
+
+                        	{{ end }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}

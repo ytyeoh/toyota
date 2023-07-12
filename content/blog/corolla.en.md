@@ -64,35 +64,29 @@ images = 5
      img= "corolla-14"
 
 
-### 360-T
-Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control.
-
-[safe-t]  
+[safetyextra]
+  title = "360-T"
+  description = "Drive with confidence knowing that your Toyota is well-equipped with state-of-the-art features to optimise your journey. 360-T ensures that you remain safe, connected, and in control."
+[safety]  
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-15"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC) for All Speeds*"
-     description= "Maintains a safe distance with preceding vehicle and brakes automatically when the car ahead stops.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Maintains a safe distance with preceding vehicle and brakes automatically when the car ahead stops.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-16"
    [[safety.link]]
      title= "Toyota Safety Sense Automatic High Beam (AHB)*"
-     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-17"
    [[safety.link]]
-     title= "Toyota Safety Sense
-Lane Departure Alert (LDA)*"
-     description= "Alerts you when you unintentionally stray out of the lane. Less swaying, safer driving.
-<br>*Driver remains solely responsible for safe driving at all times."
+     title= "Toyota Safety Sense Lane Departure Alert (LDA)*"
+     description= "Alerts you when you unintentionally stray out of the lane. Less swaying, safer driving.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-18"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA)*"
-     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-19"
    [[safety.link]]
      title= "Tyre Pressure Warning System"
@@ -120,15 +114,13 @@ Lane Departure Alert (LDA)*"
      img= "corolla-25"
    [[safety.link]]
      title= "Hill-start Assist Control (HAC)*"
-     description= "Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on steep slopes.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on steep slopes.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-26"
      
 [guaran-t]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "corolla-27"
 
 
