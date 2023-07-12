@@ -102,13 +102,13 @@ images = 5
      description= "Records your journey for your protection, should evidence be necessary."
      img= "camry-22"
 
-[connectivi-t]
+[connectivit]
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
      description= "The integrated system monitors and shares your vehicle's real-time location through a mobile app."
      img= "camry-23"
 
-[guaran-t]  
+[guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years vehicle warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
