@@ -153,7 +153,7 @@ images = 5
      img= "veloz-35"
 
 
-[connectivi-t]
+[connectivit]
    [[connectivit.link]]
      title= '9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*'
      description= "Navigate and play your favourite tunes with ease through wired or wireless connection.<br>Apple CarPlay is a trademark of Apple Inc.<br>Android Auto™ is a trademark of Google LLC.<br>To use Android Auto™ on our car display, you'll need an Android phone running Android 6 or higher, an active plan, and the Android Auto™ app.<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
@@ -172,7 +172,7 @@ images = 5
      img= "veloz-39"
      
 
-[guaran-t]  
+[guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5-year warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
