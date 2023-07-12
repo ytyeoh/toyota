@@ -117,7 +117,7 @@ images = 5
      description= "Hill-Start Assist Control keeps the All-New Corolla from rolling backwards on steep slopes.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corolla-26"
      
-[guaran-t]  
+[guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
