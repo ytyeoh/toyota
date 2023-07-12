@@ -172,7 +172,7 @@ images = 5
      description= "Automatically activates the wipers and adjust the wiper speed when rain is detected."
      img= "vios-40"
 
-[connectivi-t]
+[connectivit]
    [[connectivit.link]]
      title= '9” Display Audio'
      description= "Wireless Apple CarPlay & Android Auto™️"
@@ -194,7 +194,7 @@ images = 5
      description= "Track and monitor your car's location in real time via Toyota 24SEVEN mobile app with 3 Years Free subscription."
      img= "vios-45"
 
-[guaran-t]  
+[guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
      description= "5 years vehicle warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply"
