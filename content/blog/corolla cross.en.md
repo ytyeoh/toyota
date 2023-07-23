@@ -26,7 +26,7 @@ images = 5
      description= "Comfort doesn't just come from the improved cushion material and optimised armrest size. The recline angle of 6° supports a more comfortable posture."
      img= "corollacross-5"
    [[design.link]]
-     title= "4.2" Colour Multi-information Display (MID)"
+     title= "4.2' Colour Multi-information Display (MID)"
      description= "The meter was purposefully designed to display crucial vehicle information while maintaining excellent visibility of the road ahead."
      img= "corollacross-6"
    [[design.link]]
@@ -54,10 +54,7 @@ images = 5
 [performance]
    [[performance.link]]
      title= "Toyota New Global Architecture"
-     description= "The base structure of the vehicle was designed to optimise stability, agility and visibility for an enjoyable driving experience.
-<br>Stability - The high body rigidity structure ensures better ride comfort and handling stability.
-<br>Agility - The structure provides a responsive and agile handling which results in a more comfortable ride.
-<br>Visibility - A higher seating position and narrower A-pillars help you see everything you need to."
+     description= "The base structure of the vehicle was designed to optimise stability, agility and visibility for an enjoyable driving experience.<br>Stability - The high body rigidity structure ensures better ride comfort and handling stability.<br>Agility - The structure provides a responsive and agile handling which results in a more comfortable ride.<br>Visibility - A higher seating position and narrower A-pillars help you see everything you need to."
      img= "corollacross-12"
    [[performance.link]]
      title= "1.8L DOHC Dual VVT-i Engine"
@@ -83,28 +80,23 @@ images = 5
 [safety]
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacross-17"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA)*"
-     description= "Alerts and assists when you are out of the lane unintentionally. Less swaying, smoother driving.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Alerts and assists when you are out of the lane unintentionally. Less swaying, smoother driving.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacross-18"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC) for High Speeds*"
-     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacross-19"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA) for High Speeds*"
-     description= "At speeds above 30 km/h, it keeps the vehicle centred either by detecting the lane or the preceding vehicle.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "At speeds above 30 km/h, it keeps the vehicle centred either by detecting the lane or the preceding vehicle.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacross-20"
    [[safety.link]]
      title= "Toyota Safety Sense Automatic High Beam (AHB)*"
-     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacross-21"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -147,8 +139,7 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= "Apple CarPlay® and Android Auto™-ready Connectivity*"
-     description= "9" touch screen display with real-time navigation and music options. Selectable via built-in controls or smartphone.
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model."
+     description= "9' touch screen display with real-time navigation and music options. Selectable via built-in controls or smartphone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model."
      img= "corollacross-31"
    [[connectivit.link]]
      title= "Rear USB Charging Ports"
@@ -156,8 +147,7 @@ images = 5
      img= "corollacross-32"
    [[connectivit.link]]
      title= "Wireless Charger (Optional)"
-     description= "Offers convenient charging for Qi* standard-compliant devices without the use of a cable.
-<br>*International standard for wireless charging developed by Wireless Power Consortium."
+     description= "Offers convenient charging for Qi* standard-compliant devices without the use of a cable.<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "corollacross-33"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -168,8 +158,7 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "corollacross-35"
 
 +++

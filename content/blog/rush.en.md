@@ -10,20 +10,15 @@ images = 5
 [design]
    [[design.link]]
      title= "7-seater with Flexible Arrangement"
-     description= "Configure the new Rush for any situation, whether it's making space for more passengers or luggage.
-<br>2nd row: 60:40 split-fold, sliding & reclining, and one-touch tumble
-<br>3rd row: 50:50 split-fold and individual tumble
-<br>Vehicle and specifications in this image may vary from models available locally.
-<br>Image shown is for illustration purposes only."
+     description= "Configure the new Rush for any situation, whether it's making space for more passengers or luggage.<br>2nd row: 60:40 split-fold, sliding & reclining, and one-touch tumble<br>3rd row: 50:50 split-fold and individual tumble<br>Vehicle and specifications in this image may vary from models available locally.<br>Image shown is for illustration purposes only."
      img= "rush-2"
    [[design.link]]
-     title= "17" Alloy Rims"
-     description= "17" alloy rims exude toughness in looks and build so you can take your drive further."
+     title= "17' Alloy Rims"
+     description= "17' alloy rims exude toughness in looks and build so you can take your drive further."
      img= "rush-3"
    [[design.link]]
      title= "LED Smoke Headlamps with Front Fog Lamps*"
-     description= "Never lose sight of your path with the stylish LED smoke headlamps, with front fog lamps to help you find your way safely through bad weather conditions.
-<br>*Available for the 1.5S (AT) variant only."
+     description= "Never lose sight of your path with the stylish LED smoke headlamps, with front fog lamps to help you find your way safely through bad weather conditions.<br>*Available for the 1.5S (AT) variant only."
      img= "rush-4"
    [[design.link]]
      title= "Front & Rear Automatic Air Conditioning"
@@ -31,14 +26,11 @@ images = 5
      img= "rush-5"
    [[design.link]]
      title= "Leather Seats*"
-     description= "Sink into plush leather seats designed to make even the longest drives a pleasure.
-<br>*Available for the 1.5S (AT) variant only."
+     description= "Sink into plush leather seats designed to make even the longest drives a pleasure.<br>*Available for the 1.5S (AT) variant only."
      img= "rush-6"
    [[design.link]]
      title= "13 Cup Holders"
-     description= "Turn the Rush into a living space that has 13 convenient storage compartments for drinks to keep you hydrated during long drives and heavy traffic.
-<br>Vehicle and specifications in this image may vary from models available locally.
-<br>Image shown is for illustration purposes only."
+     description= "Turn the Rush into a living space that has 13 convenient storage compartments for drinks to keep you hydrated during long drives and heavy traffic.<br>Vehicle and specifications in this image may vary from models available locally.<br>Image shown is for illustration purposes only."
      img= "rush-7"
    [[design.link]]
      title= "Auto Tag"
@@ -49,10 +41,7 @@ images = 5
 [performance]
    [[performance.link]]
      title= "2NR-VE Engine with Dual VVT-i"
-     description= "2NR-VE (1.5L)
-<br>Engine: 4 cylinder, in-line, 16-valve DOHC with Dual VVT-i
-<br>Max. output: 105PS/6,000 RPM
-<br>Max. torque: 136Nm/4,200 RPM"
+     description= "2NR-VE (1.5L)<br>Engine: 4 cylinder, in-line, 16-valve DOHC with Dual VVT-i<br>Max. output: 105PS/6,000 RPM<br>Max. torque: 136Nm/4,200 RPM"
      img= "rush-9"
    [[performance.link]]
      title= "Tight Turning Radius"
@@ -70,14 +59,11 @@ images = 5
      img= "rush-11"
    [[safety.link]]
      title= "Pre-Collision System (PCS)*"
-     description= "The Pre-Collision Warning and Braking System automatically alerts you with a buzzer and applies the brakes if there is an increasing risk of frontal collision. When there is a stationary vehicle in front of you, the Front Departure Alert notifies you if the vehicle at the front moves ahead.
-<br>*Available for 1.5S (AT) variant only."
+     description= "The Pre-Collision Warning and Braking System automatically alerts you with a buzzer and applies the brakes if there is an increasing risk of frontal collision. When there is a stationary vehicle in front of you, the Front Departure Alert notifies you if the vehicle at the front moves ahead.<br>*Available for 1.5S (AT) variant only."
      img= "rush-12"
    [[safety.link]]
      title= "6 SRS Airbags"
-     description= "Enjoy a safer drive with the Rush, equipped with 6 airbags that can keep you and your loved ones safe.
-<br>Vehicle and specifications in this image may vary from models available locally.
-<br>Image shown is for illustration purposes only."
+     description= "Enjoy a safer drive with the Rush, equipped with 6 airbags that can keep you and your loved ones safe.<br>Vehicle and specifications in this image may vary from models available locally.<br>Image shown is for illustration purposes only."
      img= "rush-13"
    [[safety.link]]
      title= "Blind Spot Monitor (BSM) & Rear Cross Traffic Alert (RCTA)"
@@ -97,8 +83,7 @@ images = 5
      img= "rush-17"
    [[safety.link]]
      title= "Vehicle Stability Control (VSC) & Traction Control (TRC)"
-     description= "The VSC prevents the wheels from spinning. It provides optimal stability in varying road and weather conditions by applying brakes to the wheels individually, preventing oversteering or understeering.
-<br>TRC provides more traction when accelerating on slippery surfaces. It applies brakes individually to each wheel and reduces engine power to reduce wheel spin."
+     description= "The VSC prevents the wheels from spinning. It provides optimal stability in varying road and weather conditions by applying brakes to the wheels individually, preventing oversteering or understeering.<br>TRC provides more traction when accelerating on slippery surfaces. It applies brakes individually to each wheel and reduces engine power to reduce wheel spin."
      img= "rush-18"
    [[safety.link]]
      title= "Digital Video Recorder (DVR)"
@@ -109,8 +94,7 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= "DVD-AVX Audio System with USB-mirroring*"
-     description= "Breeze through long drives or heavy traffic with an entertainment system featuring a 6.8" display AVX with USB/AUX, as well as Bluetooth® and USB mirroring that gives you easy access to your phone's features without losing sight of the road.
-<br>*Functions may vary depending on smartphone model."
+     description= "Breeze through long drives or heavy traffic with an entertainment system featuring a 6.8' display AVX with USB/AUX, as well as Bluetooth® and USB mirroring that gives you easy access to your phone's features without losing sight of the road.<br>*Functions may vary depending on smartphone model."
      img= "rush-20"
    [[connectivit.link]]
      title= "USB Charging Ports"
@@ -121,8 +105,7 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "rush-22"
 
 +++

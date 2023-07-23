@@ -21,7 +21,7 @@ images = 5
      description= "Easy access to luggage space at the press of a button."
      img= "innovazenix-12"
    [[design.link]]
-     title= 'New 18” Alloy Rims'
+     title= "New 18' Alloy Rims"
      description= "Turn heads with silver-painted 18” alloy wheels for a striking look on the road."
      img= "innovazenix-13"
    [[design.link]]
@@ -101,10 +101,9 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "innovazenix-30"
-
++++
 ### COLOURS
 - Grey Metallic
 - Platinum White Pearl Mica

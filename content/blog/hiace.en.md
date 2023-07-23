@@ -38,8 +38,7 @@ images = 5
      img= "hiace-8"
    [[design.link]]
      title= "Vehicle Telematics System (VTS)*"
-     description= "An integrated system that monitors your vehicles real-time location through an app.
-<br>*VTS is optional."
+     description= "An integrated system that monitors your vehicles real-time location through an app.<br>*VTS is optional."
      img= "hiace-9"
 
  
@@ -81,8 +80,7 @@ images = 5
      img= "hiace-17"
    [[safety.link]]
      title= "Front and Rear Digital Video Recorder (DVR)*"
-     description= "HD cameras that automatically document your journey should an incident occur and evidence is needed.
-<br>*Front and Rear DVR is optional."
+     description= "HD cameras that automatically document your journey should an incident occur and evidence is needed.<br>*Front and Rear DVR is optional."
      img= "hiace-18"
   
 

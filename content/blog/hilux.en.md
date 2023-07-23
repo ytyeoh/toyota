@@ -41,20 +41,15 @@ images = 5
      description= "Positioned at the lower bumper corners to emphasise the wide and low appearance."
      img= "hilux-9"
    [[design.link]]
-     title= "Stylish 18" Alloy Rims"
-     description= "Stylish 18" Alloy Rims with Highway Terrain Tyres provide excellent road holding and highway cruising comfort."
+     title= "Stylish 18' Alloy Rims"
+     description= "Stylish 18' Alloy Rims with Highway Terrain Tyres provide excellent road holding and highway cruising comfort."
      img= "hilux-10"
 
  
 [performance]
    [[performance.link]]
      title= "Extreme Power with Enhanced Efficiency"
-     description= "The heavy-duty turbocharger results in superior performance while the increased common-rail fuel injection pressure contributes to increased fuel efficiency. A 6-speed transmission delivers this power with a smooth driving feel.
-<br>1GD-FTV
-<br>2.8 L Intercooler
-<br>Electronic Common-rail Fuel Injection System
-<br>Max Power: 204 Horsepower
-<br>Max Torque: 500 Nm of torque"
+     description= "The heavy-duty turbocharger results in superior performance while the increased common-rail fuel injection pressure contributes to increased fuel efficiency. A 6-speed transmission delivers this power with a smooth driving feel.<br>1GD-FTV<br>2.8 L Intercooler<br>Electronic Common-rail Fuel Injection System<br>Max Power: 204 Horsepower<br>Max Torque: 500 Nm of torque"
      img= "hilux-11"
    [[performance.link]]
      title= "Variable Flow Control (VFC) Power Steering"
@@ -87,25 +82,19 @@ images = 5
 [safety]
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times.
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "hilux-18"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA) with Yaw Assist*"
-     description= "Alerts when you are out of the lane unintentionally and applies additional brake force to the inner wheels to correct your Hilux’s direction. Less swaying, safer driving.
-<br>*Driver remains solely responsible for safe driving at all times. 
-<br>For illustration purposes only."
+     description= "Alerts when you are out of the lane unintentionally and applies additional brake force to the inner wheels to correct your Hilux’s direction. Less swaying, safer driving.<br>*Driver remains solely responsible for safe driving at all times. <br>For illustration purposes only."
      img= "hilux-19"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC)*"
-     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down."
-<br>*Driver remains solely responsible for safe driving at all times.
-<br>For illustration purposes only.
+     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.<br>*Driver remains solely responsible for safe driving at all times.<br>For illustration purposes only."
      img= "hilux-20"
    [[safety.link]]
      title= "Panoramic View Monitor (PVM)*"
-     description= "The 360° PVM allows you to be aware of hazards surrounding your Hilux. Useful when parking, especially in narrow and tight spaces."
-<br>*Optional accessory. Available for Double Cab variants only.
+     description= "The 360° PVM allows you to be aware of hazards surrounding your Hilux. Useful when parking, especially in narrow and tight spaces.<br>*Optional accessory. Available for Double Cab variants only."
      img= "hilux-21"
    [[safety.link]]
      title= "Blind Spot Monitor (BSM) with Rear Cross Traffic Alert (RCTA)"
@@ -148,8 +137,7 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= '9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*'
-     description= "Access navigation and music options easily using your phone.
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
+     description= "Access navigation and music options easily using your phone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
      img= "hilux-31"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -160,8 +148,7 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration or 150,000 km travelled, whichever occurs first.
-<br>*Terms and conditions apply"
+     description= "5 years warranty from the date of first registration or 150,000 km travelled, whichever occurs first.<br>*Terms and conditions apply"
      img= "hilux-33"
 +++
 ## HILUX

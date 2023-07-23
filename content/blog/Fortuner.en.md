@@ -31,8 +31,7 @@ images = 5
      img= "fortuner-6"
    [[design.link]]
      title= "Kick-sensor Power Back Door*"
-     description= "Kick it up a notch and load up the Fortuner, hands-free.
-<br>*Optional accessory."
+     description= "Kick it up a notch and load up the Fortuner, hands-free.<br>*Optional accessory."
      img= "fortuner-7"
    [[design.link]]
      title= "USB Ports"
@@ -73,18 +72,15 @@ images = 5
 [safety]
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "fortuner-15"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA) with Yaw Assist*"
-     description= "Alerts you when you unintentionally stray out of the lane and applies additional brake force to the inner wheels to correct your Fortuner's direction. Less swaying, safer driving.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Alerts you when you unintentionally stray out of the lane and applies additional brake force to the inner wheels to correct your Fortuner's direction. Less swaying, safer driving.<br>*Driver remains solely responsible for safe driving at all times."
      img= "fortuner-16"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC)*"
-     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "At speeds above 30 km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.<br>*Driver remains solely responsible for safe driving at all times."
      img= "fortuner-17"
    [[safety.link]]
      title= "Panoramic View Monitor (PVM)"
@@ -111,13 +107,11 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= '9" Display Audio with Apple CarPlay & Android Auto™ Wireless Connectivity*'
-     description= "Access navigation and music options easily using your phone.
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
+     description= "Access navigation and music options easily using your phone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia."
      img= "fortuner-23"
    [[connectivit.link]]
      title= "Wireless Charger*"
-     description= "Conveniently charge your Qi standard-compliant devices without the use of cable.
-<br>*International standard for wireless charging developed by Wireless Power Consortium."
+     description= "Conveniently charge your Qi standard-compliant devices without the use of cable.<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "fortuner-24"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -128,8 +122,7 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5 years warranty from the date of first registration with unlimited mileage.
-<br>*Terms and conditions apply."
+     description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "fortuner-26"
 
 
