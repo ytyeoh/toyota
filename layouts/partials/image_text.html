@@ -8,11 +8,11 @@
 {{ range  .ppp }}
 	{{ range .}}
 	<div class="row a-card">
-	<div class="col-8">
+	<div class="col-8 p-0">
 		<div class="img">
 			{{ $img := print $pp .img }}
 			{{ $img := print $img ".jpg" }}
-			<img src="/{{$img}}" alt="" style="width:100%;"> 
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
 		</div>
 	</div>
 	<div class="col-4">
