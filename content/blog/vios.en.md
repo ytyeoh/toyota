@@ -179,7 +179,7 @@ images = 5
      img= "vios-41"
    [[connectivit.link]]
      title= "Front & Rear Digital Video Recorder (DVR)*"
-     description= "Convenient access and monitoring via Toyota mobile app.<br>*Rear DVR is an optional accessory"
+     description= "Convenient access and monitoring via Toyota mobile app.<br>*Rear DVR is an optional accessory."
      img= "vios-42"
    [[connectivit.link]]
      title= "Fast Charging Rear USB Ports"
