@@ -121,6 +121,72 @@ images = 5
      description= "8 years hybrid electric warranty with unlimited mileage. Inverter and Power Management Control ECU replacement included.<br>*Terms and conditions apply."
      img= "innovazenix-31"
 +++
+## ALL-NEW INNOVA ZENIX
+HYBRID ELECTRIC
+
+ELEVATE
+EVERY MOMENT
+
+**Crossover from RM 202,000.00**
+
+## All Innova Zenix Models:
+
+**Innova Zenix 2.0V  From RM165,000.00**
+- 10.1-inch Display Audio with Android Auto® & Apple CarPlay™
+- with 10-speed Direct Shift CVT (174 PS): 2.0L Dynamic Force Engine
+- First in Toyota line-up: Toyota Safety Sense 3.0
+
+**Innova Zenix Hybrid Electric  From RM202,000.00**
+- 10.1-inch Display Audio with Android Auto® & Apple CarPlay™
+- with EV mode (186 PS): 5th Generation Hybrid system
+- Panoramic Sunroof
+
+On-the-road price including SST, without insurance for models in Peninsular Malaysia (for Individual Private Owners).
+Prices shown are subject to change and are governed by the terms and conditions of this website.
+
+ 
+## ALL-NEW INNOVA ZENIX
+Sleek looks meet bold personality with the all-new Innova Zenix. Turn heads at every turn of the corner with its refreshed design and advanced features that will elevate every moment of your drive.
+
+- 10.1-inch Display Audio with Android Auto® & Apple CarPlay™
+- with 10-speed Direct Shift CVT (174 PS): 2.0L Dynamic Force Engine
+- First in Toyota line-up: Toyota Safety Sense 3.0
+
+## 5TH GENERATION TOYOTA HYBRID ELECTRIC SYSTEM WITH EV MODE
+Electrify your drive and go the distance with the all-new Zenix Hybrid Electric. Experience the new 5th generation hybrid system that offers better fuel efficiency, handling, quietness, responsive acceleration, and more.
+
+## F.U.T.U.R.E.
+**Fuel Efficiency**
+With the electric motor, the All-New Corolla Cross Hybrid Electric saves cost by reducing fuel consumption.
+<br>*Image is for illustration purpose only.
+     img= "innovazenix-2"
+**Unmatched Comfort**
+In EV MODE, only the silent electric motor runs the car which reduces cabin noise, leading to increased passenger comfort.
+<br>Condition of the Hybrid Electric battery system affects whether the electric motor can run the whole car or not, as well as the speed and distance that can be travelled.
+<br>*Image is for illustration purpose only.
+     img= "innovazenix-3"
+**Tomorrow-driven**
+CO2 Emissions: 98g/km
+<br>Using less petrol means lower CO2 emissions, that which will change the world for the better for years to come.
+<br>*Image is for illustration purpose only.
+     img= "innovazenix-4"
+**Unrivalled Technology**
+The 5th Generation Hybrid Electric battery now lasts longer than ever by adopting:
+- Advanced Hybrid Electric software
+- Efficient air filtration
+- Improved battery-cooling system
+<br>*Image is for illustration purpose only.
+     img= "innovazenix-5"
+**Reassurance**
+Market-leading Hybrid Electric Warranty 8 years warranty from the date of registration with unlimited mileage covering the Hybrid Electric Vehicle (HEV) battery, inverter and power management control ECU. Hybrid Electric Warranty can be extended for another 2 years.
+<br>Using less petrol means lower CO2 emissions, that which will change the world for the better for years to come.
+<br>Terms and conditions apply.
+     img= "innovazenix-6"
+****Excitement**
+The lower centre of gravity allows for greater handling, as well as a more stable and comfortable ride.
+<br>*Image is for illustration purpose only.
+     img= "innovazenix-7"
+
 ### COLOURS
 - Grey Metallic
 - Platinum White Pearl Mica
