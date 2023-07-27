@@ -7,7 +7,16 @@ banner = "img/crossover/innovazenix/innovazenix-1.jpg"
 location = "img/crossover/innovazenix"
 img_path = "img/model/innovazenix/"
 images = 5
+
 [design]
+   [[design.link]]
+     title= "New Panoramic Sunroof"
+     description= "Soak in the lights and sights with a stylish, retractable sunroof."
+     img= "innovazenix-8"
+   [[design.link]]
+     title= "Captain Seats"
+     description= "A pleasant journey awaits you with adjustable recliners for maximum comfort."
+     img= "innovazenix-9"
    [[design.link]]
      title= "New Front Grille Design"
      description= "The striking trapezium grille gives Zenix its signature suave look on the road."
@@ -21,7 +30,7 @@ images = 5
      description= "Easy access to luggage space at the press of a button."
      img= "innovazenix-12"
    [[design.link]]
-     title= "New 18' Alloy Rims"
+     title= 'New 18" Alloy Rims'
      description= "Turn heads with silver-painted 18” alloy wheels for a striking look on the road."
      img= "innovazenix-13"
    [[design.link]]
@@ -48,9 +57,13 @@ images = 5
      description= "The Toyota New Global Architecture maximizes your driving experience with technological advancements that unites both driver and vehicle."
      img= "innovazenix-18"
    [[performance.link]]
-     title= "New 2.0L Dynamic Force Engine"
-     description= "Enhances fuel efficiency while delivering dynamic performance."
+     title= "New Hybrid Electric Engine"
+     description= "New hybrid technology with better fuel efficiency and reduced carbon emissions."
      img= "innovazenix-19"
+   [[performance.link]]
+     title= "New EV Mode + ECO & Power Mode"
+     description= "New EV Mode + ECO & Power Mode"
+     img= "innovazenix-20"
    [[performance.link]]
      title= "New Steering Wheel With Paddle Shift"
      description= "Every adventure is now smoother with better stability, thanks to the Zenix’s lighter steering wheel."
@@ -103,6 +116,10 @@ images = 5
      title= "5-Year Warranty*"
      description= "5 years warranty from the date of first registration with unlimited mileage.<br>*Terms and conditions apply."
      img= "innovazenix-30"
+    [[guarantee.link]]
+     title= "8 Years Hybrid Electric Warranty*"
+     description= "8 years hybrid electric warranty with unlimited mileage. Inverter and Power Management Control ECU replacement included.<br>*Terms and conditions apply."
+     img= "innovazenix-31"
 +++
 ### COLOURS
 - Grey Metallic
