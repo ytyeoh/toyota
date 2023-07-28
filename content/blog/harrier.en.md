@@ -76,28 +76,23 @@ images = 5
 [safety]
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Crash System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by automatically applying brakes and alerting the driver when at risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by automatically applying brakes and alerting the driver when at risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "harrier-16"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA) With Steering Assist*"
-     description= "Alerts driver when vehicle is out of lane. Steering assist also provides additional steering pressure to correct any lane deviation."
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Alerts driver when vehicle is out of lane. Steering assist also provides additional steering pressure to correct any lane deviation.<br>*Driver remains solely responsible for safe driving at all times."
      img= "harrier-17"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC) for All Speeds*"
-     description= "Maintains a safe distance from the preceding vehicle, braking automatically when the vehicle ahead stops."
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Maintains a safe distance from the preceding vehicle, braking automatically when the vehicle ahead stops.<br>*Driver remains solely responsible for safe driving at all times."
      img= "harrier-18"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA)*"
-     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle.<br>*Driver remains solely responsible for safe driving at all times."
      img= "harrier-19"
    [[safety.link]]
      title= "Toyota Safety Sense Adaptive High Beam System (AHS)*"
-     description= "Uses multiple independently controlled LEDs arranged in a single row, giving a wider range of illumination than earlier systems without dazzling the drivers of preceding and oncoming vehicles."
-<br>*Driver remains solely responsible for safe driving at all times.
+     description= "Uses multiple independently controlled LEDs arranged in a single row, giving a wider range of illumination than earlier systems without dazzling the drivers of preceding and oncoming vehicles.<br>*Driver remains solely responsible for safe driving at all times."
      img= "harrier-20"
    [[safety.link]]
      title= "Tyre Pressure Monitoring System (TPMS)"
@@ -140,7 +135,7 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= "Apple CarPlay® and Android Auto™-ready connectivity"
-     description= "The 8" touchscreen display with reverse camera is USB, AUX, and Bluetooth compatible."
+     description= "The 8' touchscreen display with reverse camera is USB, AUX, and Bluetooth compatible."
      img= "harrier-30"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"
@@ -151,8 +146,7 @@ images = 5
 [guarant]  
    [[guarantee.link]]
      title= "5-Year Warranty*"
-     description= "5-year warranty from the date of first registration with unlimited mileage."
-<br>Terms and conditions apply.*
+     description= "5-year warranty from the date of first registration with unlimited mileage.<br>Terms and conditions apply.*"
      img= "harrier-32"
 
 +++

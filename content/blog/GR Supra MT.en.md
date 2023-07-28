@@ -14,7 +14,7 @@ images = 5
      img= "grsupramt-2"
    [[design.link]]
      title= 'New 19” forged alloy wheels'
-     description= "A short wheelbase and imposing new 19" forged alloy wheels."
+     description= "A short wheelbase and imposing new 19' forged alloy wheels."
      img= "grsupramt-3"
    [[design.link]]
      title= "Blending racing aerodynamics with a modern, powerful aesthetic"

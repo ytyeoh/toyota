@@ -84,18 +84,15 @@ images = 5
 [safety]
    [[safety.link]]
      title= "Toyota Safety Sense Pre-Collision System (PCS)*"
-     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes to reduce vehicle speed when there is a risk of collision.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Avoids or mitigates frontal collisions by alerting the driver and automatically applies the brakes to reduce vehicle speed when there is a risk of collision.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacrosshybridelectric-25"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Departure Alert (LDA)*"
-     description= "Alerts and assists when you are out of the lane unintentionally. Less swaying, smoother driving."
-<br>*Driver remains solely responsible for safe driving at all times.
+     description= "Alerts and assists when you are out of the lane unintentionally. Less swaying, smoother driving.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacrosshybridelectric-26"
    [[safety.link]]
      title= "Toyota Safety Sense Dynamic Radar Cruise Control (DRCC) for High Speeds*"
-     description= "At speeds above 30km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "At speeds above 30km/h, it maintains a safe distance with the preceding vehicle and brakes automatically when the car ahead slows down.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacrosshybridelectric-27"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA) for High Speeds*"
@@ -103,8 +100,7 @@ images = 5
      img= "corollacrosshybridelectric-28"
    [[safety.link]]
      title= "Toyota Safety Sense Automatic High Beam (AHB)*"
-     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Automatically switches between high beam and low beam as needed to provide maximum road visibility.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacrosshybridelectric-29"
    [[safety.link]]
      title= "3D Panoramic View Monitor (PVM)"
@@ -127,13 +123,11 @@ images = 5
 [connectivit]
    [[connectivit.link]]
      title= "Apple CarPlay® and Android Auto™-ready Connectivity*"
-     description= "9" touch screen display with real-time navigation and music options. Selectable via built-in controls or your smartphone."
-<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model.
+     description= "9' touch screen display with real-time navigation and music options. Selectable via built-in controls or your smartphone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model."
      img= "corollacrosshybridelectric-34"
    [[connectivit.link]]
      title= "Wireless Charger (Optional)"
-     description= "Offers convenient charging for Qi* standard-compliant devices without the use of a cable."
-<br>*International standard for wireless charging developed by Wireless Power Consortium.
+     description= "Offers convenient charging for Qi* standard-compliant devices without the use of a cable.<br>*International standard for wireless charging developed by Wireless Power Consortium."
      img= "corollacrosshybridelectric-35"
    [[connectivit.link]]
      title= "Vehicle Telematics System (VTS)"

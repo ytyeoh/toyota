@@ -14,7 +14,7 @@ images = 5
      img= "grsupraat-2"
    [[design.link]]
      title= 'New 19” forged alloy wheels'
-     description= "A short wheelbase and imposing new 19" forged alloy wheels."
+     description= "A short wheelbase and imposing new 19' forged alloy wheels."
      img= "grsupraat-3"
    [[design.link]]
      title= "Blending racing aerodynamics with a modern, powerful aesthetic"
@@ -69,8 +69,8 @@ images = 5
      img= "grsupraat-15"
    [[performance.link]]
      title= "6-speed Manual or 8-speed Automatic Transmission"
-     description= "Now available in 6-speed manual transmission to heighten one’s enjoyment of driving. Be one with your car and take full control."
-     img= grsupraat-16"
+     description= "Now available in 6-speed manual transmission to heighten one's enjoyment of driving. Be one with your car and take full control."
+     img= "grsupraat-16"
    [[performance.link]]
      title= "Active Differential"
      description= "The new Toyota GR Supra’s standard active differential delivers huge benefits in stability and efficiency when the tyres are at their limits. This effect is felt in all phases of cornering, with increased stability during the braking and cornering phases and maximum grip as you accelerate out of bends."

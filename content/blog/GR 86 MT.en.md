@@ -14,7 +14,7 @@ images = 5
      img= "gr86mt-2"
    [[design.link]]
      title= "Rear Design"
-     description= "Sporting a duckbill rear spoiler, black power outside mirror, roof-mounted shark-fin antenna, rear "GR86" badge and dual chrome-tipped exhaust."
+     description= "Sporting a duckbill rear spoiler, black power outside mirror, roof-mounted shark-fin antenna, rear 'GR86' badge and dual chrome-tipped exhaust."
      img= "gr86mt-3"
    [[design.link]]
      title= "Michelin® Pilot® Sport 4 Tyres"

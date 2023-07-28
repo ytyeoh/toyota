@@ -14,7 +14,7 @@ images = 5
      img= "hiluxgrsport-2"
    [[design.link]]
      title= "New Wheel Design"
-     description= "The New Hilux GR Sport is fitted with a unique spoke design 18" rims wrapped with Highway Terrain Tyres. Behind the rims is a red brake calliper with GR Sport branding for a hint of sportiness."
+     description= "The New Hilux GR Sport is fitted with a unique spoke design 18' rims wrapped with Highway Terrain Tyres. Behind the rims is a red brake calliper with GR Sport branding for a hint of sportiness."
      img= "hiluxgrsport-3"
    [[design.link]]
      title= "Sporty Interior Design"

@@ -14,7 +14,7 @@ images = 5
      img= "gr86at-2"
    [[design.link]]
      title= "Rear Design"
-     description= "Sporting a duckbill rear spoiler, black power outside mirror, roof-mounted shark-fin antenna, rear "GR86" badge and dual chrome-tipped exhaust."
+     description= "Sporting a duckbill rear spoiler, black power outside mirror, roof-mounted shark-fin antenna, rear 'GR86' badge and dual chrome-tipped exhaust."
      img= "gr86at-3"
    [[design.link]]
      title= "Michelin® Pilot® Sport 4 Tyres"
@@ -83,8 +83,7 @@ images = 5
      img= "gr86at-17"
    [[safety.link]]
      title= "Adaptive Cruise Control (ACC)*"
-     description= "Designed to adjust your speed, helping you maintain a preset distance from the car in front of you.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Designed to adjust your speed, helping you maintain a preset distance from the car in front of you.<br>*Driver remains solely responsible for safe driving at all times."
      img= "gr86at-18"
    [[safety.link]]
      title= "Lane Departure Alert (LDA)*"

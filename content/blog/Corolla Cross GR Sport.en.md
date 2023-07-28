@@ -57,7 +57,7 @@ images = 5
      description= "Comfort doesn't just come from the improved cushion material and optimised armrest size. The recline angle of 6° supports a more comfortable posture."
      img= "corollacrossgrsport-13"
    [[design.link]]
-     title= "4.2" Colour Multi-information Display (MID)"
+     title= "4.2' Colour Multi-information Display (MID)"
      description= "The meter was purposefully designed to display crucial vehicle information while maintaining excellent visibility of the road ahead."
      img= "corollacrossgrsport-14"   
    [[design.link]]
@@ -142,8 +142,7 @@ images = 5
      img= "corollacrossgrsport-32"
    [[safety.link]]
      title= "Toyota Safety Sense Lane Tracing Assist (LTA) for All Speeds*"
-     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle at any speed.
-<br>*Driver remains solely responsible for safe driving at all times."
+     description= "Keeps the vehicle centred either by detecting the lane or the preceding vehicle at any speed.<br>*Driver remains solely responsible for safe driving at all times."
      img= "corollacrossgrsport-33"
    [[safety.link]]
      title= "Toyota Safety Sense Automatic High Beam (AHB)*"
@@ -185,8 +184,8 @@ images = 5
 
 [connectivit]
    [[connectivit.link]]
-     title= '9" Display Audio With Apple Carplay & Android Auto™ Connectivity*'
-     description= "9" touchscreen display with real-time navigation and music options. Selectable via built-in controls or smartphone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model."
+     title= "9' Display Audio With Apple Carplay & Android Auto™ Connectivity*"
+     description= "9' touchscreen display with real-time navigation and music options. Selectable via built-in controls or smartphone.<br>*Android Auto™ will be available when the service is officially launched in Malaysia. Functions may vary depending on smartphone model."
      img= "corollacrossgrsport-43"
    [[connectivit.link]]
      title= "Rear USB Charging Ports"
