@@ -3,7 +3,7 @@ title = "CAMRY"
 
 tags = ["Sedan", "programming", "theme", "hugo"]
 categories = ["Sedan"]
-banner = "img/sedan/camry/camry-1.jpg"
+banner = "img/model/camry/camry-1.jpg"
 location = "img/sedan/camry"
 img_path = "img/model/camry/"
 images = 5

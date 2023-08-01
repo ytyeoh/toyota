@@ -3,7 +3,7 @@ title = "COROLLA CROSS GR SPORT"
 
 tags = ["GR & GR-S", "programming", "theme", "hugo"]
 categories = ["GR & GR-S"]
-banner = "img/crossover/corollacrossgrsport/corollacrossgrsport-1.jpg"
+banner = "img/model/corollacrossgrsport/corollacrossgrsport-1.jpg"
 location = "img/crossover/corollacrossgrsport"
 img_path = "img/model/corollacrossgrsport/"
 images = 5

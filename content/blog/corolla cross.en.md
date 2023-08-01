@@ -3,7 +3,7 @@ title = "COROLLA CROSS"
 
 tags = ["SUV", "programming", "theme", "hugo"]
 categories = ["SUV"]
-banner = "img/crossover/corollacross/corollacross-1.jpg"
+banner = "img/model/corollacross/corollacross-1.jpg"
 location = "img/crossover/corollacross"
 img_path = "img/model/corollacross/"
 images = 5

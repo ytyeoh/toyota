@@ -3,7 +3,7 @@ title = "COROLLA"
 
 tags = ["Sedan", "programming", "theme", "hugo"]
 categories = ["Sedan"]
-banner = "img/sedan/corolla/corolla-1.jpg"
+banner = "img/model/corolla/corolla-1.jpg"
 location = "img/sedan/corolla"
 img_path = "img/model/corolla/"
 images = 5
