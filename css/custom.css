@@ -1,5 +1,8 @@
 /* your styles go here */
 /* Example site test */
+.home-carousel {
+  background: url('../img/bg.jpeg') center center repeat;
+}
 h3{
   text-transform: uppercase;
 }
