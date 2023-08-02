@@ -3,7 +3,7 @@ title = "COROLLA CROSS HYBRID ELECTRIC"
 
 tags = ["Electrified", "programming", "theme", "hugo"]
 categories = ["Electrified"]
-banner = "img/electrified/crossover/corollacrosshybridelectric-1.jpg"
+banner = "img/model/crossover/corollacrosshybridelectric-1.jpg"
 location = "img/electrified/corollacrosshybridelectric"
 img_path = "img/model/corollacrosshybridelectric/"
 images = 5
