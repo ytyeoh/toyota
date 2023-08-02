@@ -3,7 +3,7 @@ title = "GR COROLLA"
 
 tags = ["GR & GR-S", "programming", "theme", "hugo"]
 categories = ["GR & GR-S"]
-banner = "img/hatchback/grcorolla/grcorolla-1.jpg"
+banner = "img/model/grcorolla/grcorolla-1.jpg"
 location = "img/hatchback/grcorolla"
 img_path = "img/model/grcorolla/"
 images = 5
