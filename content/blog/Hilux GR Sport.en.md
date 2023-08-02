@@ -3,7 +3,7 @@ title = "Hilux GR Sport"
 
 tags = ["GR & GR-S", "programming", "theme", "hugo"]
 categories = ["GR & GR-S"]
-banner = "img/pickup/hiluxgrsport/hiluxgrsport-1.jpg"
+banner = "img/model/hiluxgrsport/hiluxgrsport-1.jpg"
 location = "img/pickup/hiluxgrsport"
 img_path = "img/model/hiluxgrsport/"
 images = 5
