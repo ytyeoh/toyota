@@ -3,7 +3,7 @@ title = "GR86 M/T"
 
 tags = ["GR & GR-S", "programming", "theme", "hugo"]
 categories = ["GR & GR-S"]
-banner = "img/coupe/gr86mt/gr86mt-1.jpg"
+banner = "img/model/gr86mt/gr86mt-1.jpg"
 location = "img/coupe/gr86mt"
 img_path = "img/model/gr86mt/"
 images = 5
