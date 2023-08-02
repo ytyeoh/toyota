@@ -3,7 +3,7 @@ title = "RUSH"
 
 tags = ["SUV", "programming", "theme", "hugo"]
 categories = ["SUV"]
-banner = "img/suv/rush/rush-1.jpg"
+banner = "img/model/rush/rush-1.jpg"
 location = "img/suv/rush"
 img_path = "img/model/rush/"
 images = 5
