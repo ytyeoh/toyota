@@ -3,7 +3,7 @@ title = "GR SUPRA M/T"
 
 tags = ["GR & GR-s", "programming", "theme", "hugo"]
 categories = ["GR & GR-s"]
-banner = "img/coupe/grsupramt/grsupramt-1.jpg"
+banner = "img/model/grsupramt/grsupramt-1.jpg"
 location = "img/coupe/grsupramt"
 img_path = "img/model/grsupramt/"
 images = 5
