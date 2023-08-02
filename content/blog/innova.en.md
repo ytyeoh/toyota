@@ -3,7 +3,7 @@ title = "INNOVA"
 
 tags = ["MPV", "programming", "theme", "hugo"]
 categories = ["MPV"]
-banner = "img/mpv/innova/innova-1.jpg"
+banner = "img/model/innova/innova-1.jpg"
 location = "img/mpv/innova"
 img_path = "img/model/innova/"
 images = 5
