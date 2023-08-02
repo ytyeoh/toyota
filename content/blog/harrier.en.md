@@ -3,7 +3,7 @@ title = "HARRIER"
 
 tags = ["SUV", "programming", "theme", "hugo"]
 categories = ["SUV"]
-banner = "img/suv/harrier/harrier-1.jpg"
+banner = "img/model/harrier/harrier-1.jpg"
 location = "img/suv/harrier"
 img_path = "img/model/harrier/"
 images = 5
