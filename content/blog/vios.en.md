@@ -3,7 +3,7 @@ title = "VIOS"
 
 tags = ["Sedan", "programming", "theme", "hugo"]
 categories = ["Sedan"]
-banner = "img/sedan/vios/vios-1.jpg"
+banner = "img/model/vios/vios-1.jpg"
 location = "img/sedan/vios"
 img_path = "img/model/vios/"
 images = 5
