@@ -3,7 +3,7 @@ title = "HILUX"
 
 tags = ["Pickup", "programming", "theme", "hugo"]
 categories = ["Pickup"]
-banner = "img/pickup/hilux/hilux-1.jpg"
+banner = "img/model/hilux/hilux-1.jpg"
 location = "img/pickup/hilux"
 img_path = "img/model/hilux/"
 images = 5
