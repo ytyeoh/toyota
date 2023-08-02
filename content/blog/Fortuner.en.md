@@ -3,7 +3,7 @@ title = "FORTUNER"
 
 tags = ["SUV", "programming", "theme", "hugo"]
 categories = ["SUV"]
-banner = "img/suv/fortuner/fortuner-1.jpg"
+banner = "img/model/fortuner/fortuner-1.jpg"
 location = "img/suv/fortuner"
 img_path = "img/model/fortuner/"
 images = 5
