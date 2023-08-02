@@ -3,7 +3,7 @@ title = "HIACE"
 
 tags = ["Pickup", "programming", "theme", "hugo"]
 categories = ["Pickup"]
-banner = "img/van/hiace/hiace-1.jpg"
+banner = "img/model/hiace/hiace-1.jpg"
 location = "img/van/hiace"
 img_path = "img/model/hiace/"
 images = 5
