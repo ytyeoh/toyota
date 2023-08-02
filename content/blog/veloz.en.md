@@ -3,7 +3,7 @@ title = "VELOZ"
 
 tags = ["MPV", "programming", "theme", "hugo"]
 categories = ["MPV"]
-banner = "img/mpv/veloz/veloz-1.jpg"
+banner = "img/model/veloz/veloz-1.jpg"
 location = "img/mpv/veloz"
 img_path = "img/model/veloz/"
 images = 5
