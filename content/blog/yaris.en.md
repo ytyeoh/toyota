@@ -3,7 +3,7 @@ title = "YARIS"
 
 tags = ["HATCHBACK", "programming", "theme", "hugo"]
 categories = ["HATCHBACK"]
-banner = "img/hatchback/yaris/yaris-1.jpg"
+banner = "img/model/yaris/yaris-1.jpg"
 location = "img/hatchback/yaris"
 img_path = "img/model/yaris/"
 images = 5
