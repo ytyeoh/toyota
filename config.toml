@@ -51,7 +51,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "models"
     identifier = "menu.model"
-    url        = "/img/template-homepage.png"
+    # url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
@@ -61,7 +61,7 @@ pluralizelisttitles = false
     weight     = 4
 
 [[menu.main]]
-    name       = "model"
+    name       = "gr & gr-s"
     identifier = "section.model"
     url        = ""
     weight     = 1
@@ -69,92 +69,195 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
+    name       = "gr supra m/t"
     url        = ""
     weight     = 1
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
+    name       = "gr supra a/t"
     url        = ""
     weight     = 2
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "3 Columns"
+    name       = "gr86 m/t"
     url        = ""
     weight     = 3
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
+    name       = "gr86 a/t"
     url        = ""
     weight     = 4
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "4 Columns"
+    name       = "gr corolla"
     url        = ""
     weight     = 5
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
+    name       = "corolla cross gr sport"
     url        = ""
     weight     = 6
     parent     = "section.model"
 
 [[menu.main]]
-    name       = "model - detail"
+    name       = "hilux gr sport"
     url        = ""
     weight     = 7
     parent     = "section.model"
 
-[[menu.main]]
-    name       = "model - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.model"
 
 [[menu.main]]
-    name       = "About"
-    identifier = "section.about"
+    name       = "electrified"
+    identifier = "section.electrified"
     url        = ""
     weight     = 2
     parent     = "menu.model"
     post       = 2
 
 [[menu.main]]
-    name       = "About Us"
+    name       = "corolla corss hybridelectric"
     url        = ""
     weight     = 1
-    parent     = "section.about"
+    parent     = "section.electrified"
 
 [[menu.main]]
-    name       = "Our Team"
+    name       = "innova zenixhybrid electric"
     url        = ""
     weight     = 2
-    parent     = "section.about"
+    parent     = "section.electrified"
 
 [[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
+    name       = "suv"
+    identifier = "section.suv"
     url        = ""
     weight     = 3
     parent     = "menu.model"
     post       = 2
 
 [[menu.main]]
-    name       = "Packages"
+    name       = "rush"
     url        = ""
     weight     = 1
-    parent     = "section.marketing"
+    parent     = "section.suv"
+
+[[menu.main]]
+    name       = "corolla cross"
+    url        = ""
+    weight     = 2
+    parent     = "section.suv"
+
+[[menu.main]]
+    name       = "fortuner"
+    url        = ""
+    weight     = 3
+    parent     = "section.suv"
+
+[[menu.main]]
+    name       = "rush"
+    url        = ""
+    weight     = 4
+    parent     = "section.suv"
+
+[[menu.main]]
+    name       = "sedan"
+    identifier = "section.sedan"
+    url        = ""
+    weight     = 1
+    parent     = "menu.model"
+    post       = 3
+
+
+[[menu.main]]
+    name       = "vios"
+    url        = ""
+    weight     = 1
+    parent     = "section.sedan"
+
+[[menu.main]]
+    name       = "corolla"
+    url        = ""
+    weight     = 2
+    parent     = "section.sedan"
+
+[[menu.main]]
+    name       = "camry"
+    url        = ""
+    weight     = 3
+    parent     = "section.sedan"
+
+[[menu.main]]
+    name       = "mpv"
+    identifier = "section.mpv"
+    url        = ""
+    weight     = 2
+    parent     = "menu.model"
+    post       = 3
+
+
+[[menu.main]]
+    name       = "veloz"
+    url        = ""
+    weight     = 1
+    parent     = "section.mpv"
+
+[[menu.main]]
+    name       = "innova"
+    url        = ""
+    weight     = 2
+    parent     = "section.mpv"
+
+[[menu.main]]
+    name       = "innova zenix"
+    url        = ""
+    weight     = 3
+    parent     = "section.mpv"
 
 [[menu.main]]
     name       = "Promotion"
     identifier = "menu.promotion"
     url        = ""
     weight     = 4
+
+[[menu.main]]
+    name       = "hatchback"
+    identifier = "section.hatchback"
+    url        = ""
+    weight     = 1
+    parent     = "menu.model"
+    post       = 4
+
+
+[[menu.main]]
+    name       = "yaris"
+    url        = ""
+    weight     = 1
+    parent     = "section.hatchback"
+
+[[menu.main]]
+    name       = "pickup & van"
+    identifier = "section.pickup"
+    url        = ""
+    weight     = 1
+    parent     = "menu.model"
+    post       = 4
+
+
+[[menu.main]]
+    name       = "hilux"
+    url        = ""
+    weight     = 1
+    parent     = "section.pickup"
+
+[[menu.main]]
+    name       = "hiace"
+    url        = ""
+    weight     = 2
+    parent     = "section.pickup"
 
 
 [[languages.zh.menu.main]]
