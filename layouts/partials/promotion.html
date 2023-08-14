@@ -1,0 +1,75 @@
+<div class="container" id="contact">
+
+    <div class="row">
+    	<h2>{{ .Params.subtitle }}</h2>
+    	{{ range .Params.promo}}
+    		{{ range sort  . "weight"}}
+    			{{ if eq .weight 1 2 }}
+    			<div class="col-12 mb-4">
+    				
+    				<div class="row">
+    					<div class="col-6">
+    						{{ $img := print "img/model/camry/" .image }}
+							{{ $img := print $img ".jpg" }}
+							<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+    					</div>
+    					<div class="col-6">
+    						<div class="row">
+    							<h3>{{ .title }}</h3>
+    							<p>Monthly installemnt up to </p>
+    							<h4>RM{{ .price }}**</h4>
+
+    							{{ if .promo }}
+    								<p class="mt-4">Promo worth up to </p>
+	    							<h4>RM{{ .promo_price }}*</h4>
+    							{{ end }}
+
+    							{{ if .tnc }}
+    								<p class="mt-4">{{ .tnc }}</p>
+    							{{ end }}
+
+
+
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+		    		
+		    	{{ else }}
+			    <div class="col-md-4 col-6 mb-4">
+    				
+    				<div class="row">
+    					<div class="col-12">
+    						{{ $img := print "img/model/camry/" .image }}
+							{{ $img := print $img ".jpg" }}
+							<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+    					</div>
+    					<div class="col-12 cl">
+    						<div class="row">
+    							<h3>{{ .title }}</h3>
+    							<p>Monthly installemnt up to </p>
+    							<h4>RM{{ .price }}**</h4>
+
+    							{{ if .promo }}
+    								<p class="mt-4">Promo worth up to </p>
+	    							<h4>RM{{ .promo_price }}*</h4>
+    							{{ end }}
+
+    							{{ if .tnc }}
+    								<p class="mt-4">{{ .tnc }}</p>
+    							{{ end }}
+
+
+
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			{{ end }}
+    		{{ end }}
+		{{ end }}
+    </div>
+    <!-- /.row -->
+</div>
+
+

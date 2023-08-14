@@ -220,7 +220,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Promotion"
     identifier = "menu.promotion"
-    url        = ""
+    url        = "promotion"
     weight     = 4
 
 [[menu.main]]
