@@ -1,0 +1,106 @@
+<div class="container" id="contact">
+
+    <div class="row">
+      <h2>{{ .Params.t2 }}</h2>
+      <p>{{ .Params.d2 }}</p>
+      <h2>{{ .Params.t3 }}</h2>
+      {{ with .Params.b1}}
+      	<div class="col-1">
+      		{{ $img := print "img/promotion/" .img }}
+			{{ $img := print $img ".jpg" }}
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+      	</div>
+      	<div class="col-11">
+      		<h3>{{ .name }}</h3>
+      		<ul>
+      			{{ range .desc}}
+	      			<li>{{ .name }}</li>
+      			{{ end }}
+      		</ul>
+      	</div>
+      {{ end }}
+
+      {{ with .Params.b2}}
+      	<div class="col-1">
+      		{{ $img := print "img/promotion/" .img }}
+			{{ $img := print $img ".jpg" }}
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+      	</div>
+      	<div class="col-11">
+      		<h3>{{ .name }}</h3>
+      		<ul>
+      			{{ range .desc}}
+	      			<li>{{ .name }}</li>
+      			{{ end }}
+      		</ul>
+      	</div>
+      {{ end }}
+      {{ with .Params.b3}}
+      	<div class="col-1">
+      		{{ $img := print "img/promotion/" .img }}
+			{{ $img := print $img ".jpg" }}
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+      	</div>
+      	<div class="col-11">
+      		<h3>{{ .name }}</h3>
+      		<ul>
+      			{{ range .desc}}
+	      			<li>{{ .name }}</li>
+      			{{ end }}
+      		</ul>
+      	</div>
+      {{ end }}
+      {{ with .Params.b4}}
+      	<div class="col-1">
+      		{{ $img := print "img/promotion/" .img }}
+			{{ $img := print $img ".jpg" }}
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+      	</div>
+      	<div class="col-11">
+      		<h3>{{ .name }}</h3>
+      		<p>{{ .desc }}</p>
+      	</div>
+      {{ end }}
+      {{ with .Params.b5}}
+      	<div class="col-1">
+      		{{ $img := print "img/promotion/" .img }}
+			{{ $img := print $img ".jpg" }}
+			<img src="/{{$img}}" alt="{{ .title }}" lazyload style="width:100%;"> 
+      	</div>
+      	<div class="col-11">
+      		<h3>{{ .name }}</h3>
+      		<table>
+      			<tr>
+      				<th>{{ .a }}</th>
+      				<th>{{ .b }}</th>
+      				<th>{{ .c }}</th>
+      			</tr>
+      			{{ range .desc}}
+	      			<tr>
+	      				<td>{{ .a }}</td>
+	      				<td>{{ .b }}</td>
+	      				<td>{{ .c }}</td>
+	      			</tr>
+      			{{ end }}
+      		</table>
+      			
+      		
+      	</div>
+      {{ end }}
+      {{ with .Params.b6}}
+      	<div class="col-12">
+      		<h3>{{ .name }}</h3>
+      		<p>{{.para }}</p>
+      		<ul>
+      			{{ range .desc}}
+	      			<li>{{ .name }}</li>
+      			{{ end }}
+      		</ul>
+      	</div>
+      {{ end }}
+      
+    </div>
+    <!-- /.row -->
+</div>
+
+
