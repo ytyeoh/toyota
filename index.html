@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Premier Toyota Dealership</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006494; /* Toyota Blue */
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            background-color: #f0f0f0;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        .section {
+            padding: 20px;
+        }
+        .featured-models {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .model-card {
+            width: 300px;
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+        .model-card img {
+            max-width: 100%;
+            height: auto;
+        }
+        .cta-button {
+            background-color: #006494;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .inventory-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .inventory-item {
+            border: 1px solid #ddd;
+            padding: 15px;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Premier Toyota Dealership</h1>
+        <p>Find Your Perfect Ride Today!</p>
+    </header>
+
+    <nav>
+        <a href="#new-inventory">New Inventory</a>
+        <a href="#used-inventory">Used Inventory</a>
+        <a href="#specials">Specials</a>
+        <a href="#services">Services</a>
+        <a href="#finance">Finance</a>
+        <a href="#contact">Contact</a>
+        <a href="#blog">Blog</a>
+    </nav>
+
+    <section class="section">
+        <h2>Featured Models</h2>
+        <div class="featured-models">
+            <div class="model-card">
+                <img src="camry.jpg" alt="Toyota Camry">
+                <h3>Toyota Camry</h3>
+                <p>The reliable and stylish sedan.</p>
+                <a href="#camry-details" class="cta-button">View Inventory</a>
+            </div>
+            <div class="model-card">
+                <img src="rav4.jpg" alt="Toyota RAV4">
+                <h3>Toyota RAV4</h3>
+                <p>The versatile and adventurous SUV.</p>
+                <a href="#rav4-details" class="cta-button">View Inventory</a>
+            </div>
+            <div class="model-card">
+                <img src="corolla.jpg" alt="Toyota Corolla">
+                <h3>Toyota Corolla</h3>
+                <p>Efficient and practical compact car.</p>
+                <a href="#corolla-details" class="cta-button">View Inventory</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="new-inventory">
+        <h2>New Inventory</h2>
+        <div class="inventory-grid">
+            <div class="inventory-item">
+                <img src="camry.jpg" alt="Toyota Camry">
+                <h3>Toyota Camry 2024</h3>
+                <p>Price: $25,000</p>
+                <a href="#camry-details" class="cta-button">Details</a>
+            </div>
+            <div class="inventory-item">
+                <img src="rav4.jpg" alt="Toyota RAV4">
+                <h3>Toyota RAV4 2024</h3>
+                <p>Price: $28,000</p>
+                <a href="#rav4-details" class="cta-button">Details</a>
+            </div>
+            </div>
+    </section>
+
+     <section class="section" id="used-inventory">
+        <h2>Used Inventory</h2>
+        <div class="inventory-grid">
+            <div class="inventory-item">
+                <img src="usedCamry.jpg" alt="Used Toyota Camry">
+                <h3>Used Toyota Camry 2020</h3>
+                <p>Price: $18,000</p>
+                <a href="#used-camry-details" class="cta-button">Details</a>
+            </div>
+            <div class="inventory-item">
+                <img src="usedRav4.jpg" alt="Used Toyota RAV4">
+                <h3>Used Toyota RAV4 2021</h3>
+                <p>Price: $22,000</p>
+                <a href="#used-rav4-details" class="cta-button">Details</a>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="section" id="specials">
+        <h2>Specials and Deals</h2>
+        <p>Check out our latest offers!</p>
+        <a href="#special-offer" class="cta-button">View Specials</a>
+    </section>
+
+    <section class="section" id="services">
+        <h2>Services</h2>
+        <p>Maintenance, repairs, and more.</p>
+        <a href="#service-schedule" class="cta-button">Schedule Service</a>
+    </section>
+
+    <section class="section" id="finance">
+        <h2>Finance</h2>
+        <p>Explore your financing options.</p>
+        <a href="#finance-apply" class="cta-button">Apply for Financing</a>
+    </section>
+
+    <section class="section" id="contact">
+        <h2>Contact Us</h2>
+        <p>Address, phone, and contact form.</p>
+        <a href="#contact-form" class="cta-button">Contact Us</a>
+    </section>
+
+    <section class="section" id="blog">
+      <h2>Blog</h2>
+      <p>Toyota information and car buying tips</p>
+      <a href = "#blog-articles" class = "cta-button">Read Blog</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Toyota Dealership</p>
+    </footer>
+
+    <script>
+        // Add JavaScript for interactive elements (e.g., form submissions, image sliders) here.
+    </script>
+
+</body>
+</html>

@@ -25,13 +25,16 @@
                             {{ with $element.url }}
                             <a href="{{ $element.url }}">
                             {{ end }}
-                                <div class="icon">
-                                    <i class="{{ $element.icon }}"></i>
-                                </div>
+                            
+                            {{ $image := resources.Get (printf "img/home/%s" $element.img) }}
+                                {{ with $image }}
+								    <img src="{{ .RelPermalink }}" class="img-fluid" alt="Toyota {{ $element.name }}">
+								{{ end }}
                             {{ with $element.url }}
                             </a>
                             {{ end }}
                             <h3>{{ $element.name | markdownify }}</h3>
+                            <h4>From {{ $element.price | markdownify }}</h4>
                             <p>{{ $element.description | markdownify }}</p>
                         </div>
                     </div>
